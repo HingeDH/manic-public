@@ -2,8 +2,8 @@
   <img width='25%' src="https://github.com/TheNuclearNexus/smithed/blob/master/public/sponsored_project.png?raw=true">
 </p>
 
-Join my Discord server [HERE](https://discord.gg/jsbRvexYqA) for sneak peeks, dev logs, betas and early access!
-> Current pack version: v0.2-snapshot-5c
+Join my Discord server [HERE](https://discord.gg/jsbRvexYqA) for sneak peeks, dev logs, betas and early access!<br/>
+__Current pack version:__ `v0.2-snapshot-5c`
 
 Bored of the current phantoms? Want a new game mechanic? Want something spookier to spice up your Minecraft world? Manic simultaneously reworks the phantom system while attempting to provide a scary, innovative and challenging gameplay mechanic involving Sanity. Manic also provides new tech, tools, and items themed around Sanity.
 Manic is compatible in both 1.17 and 1.18 snapshots. It may show errors on loading in 1.17, but it should work the same.
