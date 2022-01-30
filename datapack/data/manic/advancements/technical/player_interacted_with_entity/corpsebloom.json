@@ -1,0 +1,96 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "grow": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:rotten_flesh",
+            "minecraft:bone",
+            "minecraft:phantom_membrane"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsebloom.ungrown\"]}"
+        }
+      }
+    },
+    "grow_from_nbt": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{food:\"corpsebloom\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsebloom.ungrown\"]}"
+        }
+      }
+    },
+    "sap": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:alternative",
+            "terms": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "equipment": {
+                    "mainhand": {
+                      "items": [
+                        "minecraft:glass_bottle"
+                      ],
+                      "count": 1
+                    }
+                  }
+                }
+              },
+              {
+                "condition": "minecraft:inverted",
+                "term": {
+                  "condition": "minecraft:reference",
+                  "name": "manic:entity/full_inventory"
+                }
+              }
+            ]
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:glass_bottle"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsebloom.sappy\"]}"
+        }
+      }
+    },
+    "debug": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:debug_stick"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsebloom\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "grow",
+      "grow_from_nbt",
+      "sap",
+      "debug"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:block/corpsebloom/interact/raycast_start"
+  }
+}

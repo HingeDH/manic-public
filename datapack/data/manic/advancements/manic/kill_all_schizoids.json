@@ -1,0 +1,78 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:8360004}"
+    },
+    "title": {
+      "translate": "manic.advancement.kill_all_schizoids"
+    },
+    "description": {
+      "translate": "manic.advancement.kill_all_schizoids.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/kill_schizoid",
+  "criteria": {
+    "spook": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.spook\"]}"
+        }
+      }
+    },
+    "phantom": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:phantom"
+        }
+      }
+    },
+    "revenant": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.revenant\"]}"
+        }
+      }
+    },
+    "eidolon": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.eidolon\"]}"
+        }
+      }
+    },
+    "mirage": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.mirage\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "spook"
+    ],
+    [
+      "phantom"
+    ],
+    [
+      "revenant"
+    ],
+    [
+      "eidolon"
+    ],
+    [
+      "mirage"
+    ]
+  ]
+}

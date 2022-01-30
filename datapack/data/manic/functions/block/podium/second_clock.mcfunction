@@ -1,0 +1,1 @@
+execute if entity @s[tag=manic.block.podium_full] if predicate manic:chance/one_half run particle minecraft:end_rod ~ ~1.5 ~ 0.25 0.25 0.25 0 1 force

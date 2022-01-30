@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:8360000}"
+    },
+    "title": {
+      "translate": "manic.advancement.corpsebloom"
+    },
+    "description": {
+      "translate": "manic.advancement.corpsebloom.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/blight_mold",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

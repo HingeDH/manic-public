@@ -1,0 +1,305 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "empty": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "manic:entity/holding/vanilla_item"
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:glass_bottle",
+            "minecraft:bucket",
+            "minecraft:air"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": {
+                "min": 2
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "fill": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:alternative",
+            "terms": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "equipment": {
+                    "mainhand": {
+                      "items": [
+                        "minecraft:carrot_on_a_stick"
+                      ],
+                      "nbt": "{manic:{id:\"anirrum_bucket\"}}"
+                    }
+                  }
+                }
+              },
+              {
+                "condition": "minecraft:reference",
+                "name": "manic:entity/holding/vanilla_item"
+              }
+            ]
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:milk_bucket",
+            "minecraft:lava_bucket",
+            "minecraft:carrot_on_a_stick",
+            "minecraft:honey_bottle"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 1
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "wine": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:glow_berries",
+            "minecraft:sweet_berries",
+            "minecraft:chorus_fruit",
+            "minecraft:hay_block",
+            "minecraft:cactus"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 6
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "anirrum": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "manic:entity/holding/vanilla_item"
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:diamond_shovel",
+            "minecraft:diamond_sword",
+            "minecraft:diamond_axe",
+            "minecraft:diamond_pickaxe",
+            "minecraft:diamond_hoe",
+            "minecraft:netherite_sword",
+            "minecraft:netherite_shovel",
+            "minecraft:netherite_axe",
+            "minecraft:netherite_hoe",
+            "minecraft:netherite_pickaxe",
+            "minecraft:cauldron",
+            "minecraft:anvil",
+            "minecraft:soul_lantern",
+            "minecraft:chain"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 3
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "cheese": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "manic:entity/holding/vanilla_item"
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:warped_fungus",
+            "minecraft:crimson_fungus",
+            "minecraft:red_mushroom",
+            "minecraft:brown_mushroom"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 4
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "ferment": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "manic:entity/holding/vanilla_item"
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:fermented_spider_eye"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 5
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "debug": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:debug_stick"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    },
+    "reticulum": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:structure_block"
+          ],
+          "nbt": "{manic:{id:\"reticulum\"}}"
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 2
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "reticulum",
+      "anirrum",
+      "empty",
+      "fill",
+      "debug",
+      "wine",
+      "cheese",
+      "ferment"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:block/corpsepitcher/interact/raycast_start"
+  }
+}

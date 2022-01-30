@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "tag": "manic:low_sanity_food"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:item/consume/sanity/low_sanity_food"
+  }
+}

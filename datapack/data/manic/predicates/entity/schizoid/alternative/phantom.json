@@ -1,0 +1,26 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "dimension": "minecraft:overworld"
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "location": {
+        "position": {
+          "y": {
+            "min": 64,
+            "max": 512
+          }
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.5
+  }
+]

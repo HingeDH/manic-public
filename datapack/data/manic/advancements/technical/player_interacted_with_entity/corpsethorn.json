@@ -1,0 +1,27 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "bonemeal": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bone_meal"
+          ]
+        },
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"manic.block.corpsethorn.unbloomed\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bonemeal"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:block/corpsethorn/interact/raycast_start"
+  }
+}

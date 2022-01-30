@@ -5,11 +5,41 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/reticulum",
+          "name": "manic:items/reticulum",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
-              "chance": 0.15
+              "chance": 0.35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360000,manic:{id:\"death_item\",entity:\"revenant\"}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "killer",
+                "predicate": {
+                  "type": "minecraft:wolf"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:killed_by_player"
             }
           ]
         }

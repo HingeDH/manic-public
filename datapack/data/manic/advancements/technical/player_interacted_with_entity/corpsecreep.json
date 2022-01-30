@@ -1,0 +1,26 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "flint_and_steel": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:flint_and_steel"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.corpsecreep.unlit\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "flint_and_steel"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:entity/corpsecreep/interact/raycast_start"
+  }
+}

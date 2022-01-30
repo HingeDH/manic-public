@@ -1,0 +1,20 @@
+[
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "nbt": "{CustomName:'{\"translate\":\"manic.entity.mirage\"}'}"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{Tags:[\"manic.entity.mirage\"]}"
+      }
+    }
+  ]
+  

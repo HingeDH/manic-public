@@ -1,0 +1,57 @@
+[
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "minecraft:reference",
+          "name": "manic:entity/holding/podium"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "manic:entity/holding/altar"
+          }
+      ]
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 1,
+      "offsetZ": 0,
+      "predicate": {
+        "block": {
+          "tag": "manic:air"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "predicate": {
+            "block": {
+              "tag": "manic:air"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -1,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "manic:non_solid"
+          }
+        }
+      }
+    }
+  ]
+  

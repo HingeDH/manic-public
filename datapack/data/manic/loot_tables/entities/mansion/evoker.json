@@ -15,7 +15,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/moonstone",
+          "name": "manic:items/moonstone",
           "functions": [
             {
               "function": "minecraft:looting_enchant",
@@ -28,7 +28,7 @@
               "function": "minecraft:set_count",
               "count": {
                 "min": 0,
-                "max": 2
+                "max": 1
               }
             }
           ]

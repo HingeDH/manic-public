@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:name_tag"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.decays\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:entity/schizoid/nametag/nametag"
+  }
+}

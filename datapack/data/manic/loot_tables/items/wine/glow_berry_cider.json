@@ -1,0 +1,51 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:mundane\",CustomPotionColor:16777215,HideFlags:32,CustomModelData:8360061,manic:{id:\"glow_berry_cider\"}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "manic.item.wine.desc",
+                  "color": "red",
+                  "italic": false
+                },
+                {
+                  "translate": "manic.item.wine.desc.chorus",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "translate": "manic.item.wine.desc.glow",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.glow_berry_cider",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

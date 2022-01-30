@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:8360003}"
+    },
+    "title": {
+      "translate": "manic.advancement.ritual"
+    },
+    "description": {
+      "translate": "manic.advancement.ritual.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/anirrum",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

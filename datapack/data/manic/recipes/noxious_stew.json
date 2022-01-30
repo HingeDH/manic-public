@@ -2,12 +2,6 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:phantom_membrane"
-        },
-        {
-            "item": "minecraft:brown_mushroom"
-        },
-        {
             "item": "minecraft:slime_ball"
         },
         {

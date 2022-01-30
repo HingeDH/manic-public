@@ -1,0 +1,2 @@
+execute positioned ^ ^ ^0.1 if entity @s[distance=0..6] if block ~ ~ ~ #manic:raycast_ignore unless block ~ ~ ~ #manic:blightable run function manic:item/blight_mold/raycast
+execute positioned ^ ^ ^0.1 if block ~ ~ ~ #manic:blightable run function manic:item/blight_mold/end

@@ -1,0 +1,17 @@
+{
+  "parent": "manic:technical/recipes/root",
+  "rewards": {
+    "function": "manic:item/craft_nbt_item",
+    "loot": [
+      "manic:items/stuffed_chicken"
+    ]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "manic:stuffed_chicken"
+      }
+    }
+  }
+}

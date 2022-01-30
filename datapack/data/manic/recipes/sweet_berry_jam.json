@@ -2,25 +2,25 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:bowl"
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
+        },
+        {
+            "item": "minecraft:beetroot"
         },
         {
             "item": "minecraft:sweet_berries"
         },
-		{
+        {
             "item": "minecraft:sweet_berries"
         },
-		{
+        {
             "item": "minecraft:sweet_berries"
         },
-		{
-            "item": "minecraft:beetroot"
-        },
-		{
-            "item": "minecraft:beetroot"
-        },
-		{
-            "item": "minecraft:beetroot"
+        {
+            "item": "minecraft:bowl"
         }
     ],
     "result": {

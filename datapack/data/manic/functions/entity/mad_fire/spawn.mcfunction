@@ -1,1 +1,0 @@
-execute align xyz run summon armor_stand ~0.5 ~ ~0.5 {Fire:1000000,HasVisualFire:0b,ArmorItems:[{},{},{},{id:"minecraft:slime_ball",Count:1b,tag:{CustomModelData:8360095}}],Marker:1b,Invisible:1b,Tags:["manic.mad_fire","manic.entity"]}

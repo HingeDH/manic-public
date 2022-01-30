@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/wine/sweet_berry_wine"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/wine/glow_berry_cider"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/wine/wheat_beer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/wine/cactus_tequila"
+        }
+      ]
+    }
+  ]
+}

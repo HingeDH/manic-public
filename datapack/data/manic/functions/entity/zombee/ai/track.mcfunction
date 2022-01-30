@@ -1,2 +1,0 @@
-execute unless entity @e[tag=manic.snareable,distance=..16] if entity @e[type=#manic:undead,distance=..16,tag=!smithed.entity] run function manic:entity/zombee/ai/undead
-execute if entity @e[tag=manic.snareable,distance=..16] run function manic:entity/zombee/ai/snareable

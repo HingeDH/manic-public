@@ -1,0 +1,23 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/altar"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"manic.block.altar\"]}"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

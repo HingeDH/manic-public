@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:8360010}"
+    },
+    "title": {
+      "translate": "manic.advancement.kill_keeper"
+    },
+    "description": {
+      "translate": "manic.advancement.kill_keeper.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "manic:manic/mansion",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "nbt": "{Tags:[\"manic.keeper\"]}"
+        }
+      }
+    }
+  }
+}

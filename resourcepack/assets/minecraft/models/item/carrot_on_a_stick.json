@@ -4,17 +4,17 @@
     "layer0": "minecraft:item/carrot_on_a_stick"
   },
   "overrides": [
-	{ "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/corpsebloom_seeds" },
-	{ "predicate": { "custom_model_data": 8360001 }, "model": "manic:item/blight_mold" },
-	{ "predicate": { "custom_model_data": 8360002 }, "model": "manic:item/corpsegourd_seeds" },
-	{ "predicate": { "custom_model_data": 8360003 }, "model": "manic:item/sanity_talisman" },
-	{ "predicate": { "custom_model_data": 8360004 }, "model": "manic:item/sanity_talisman_on" },
-	{ "predicate": { "custom_model_data": 8360005 }, "model": "manic:item/corpseflute" },
-	{ "predicate": { "custom_model_data": 8360006 }, "model": "manic:item/oozing_nucleus" },
-	{ "predicate": { "custom_model_data": 8360007 }, "model": "manic:item/corpsepitcher_twig" },
-	{ "predicate": { "custom_model_data": 8360008 }, "model": "manic:item/anirrum_bucket" },
-	{ "predicate": { "custom_model_data": 8360009 }, "model": "manic:item/corpsethorn_seeds" },
-	{ "predicate": { "custom_model_data": 8360010 }, "model": "manic:item/podium" },
-	{ "predicate": { "custom_model_data": 8360011 }, "model": "manic:item/altar" }
+  { "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/corpsebloom_seeds" },
+  { "predicate": { "custom_model_data": 8360001 }, "model": "manic:item/fertile_corpsebloom_seeds" },
+  { "predicate": { "custom_model_data": 8360002 }, "model": "manic:item/corpsepitcher_twig" },
+  { "predicate": { "custom_model_data": 8360003 }, "model": "manic:item/podium" },
+  { "predicate": { "custom_model_data": 8360004 }, "model": "manic:item/corpsegourd_seeds" },
+  { "predicate": { "custom_model_data": 8360005 }, "model": "manic:item/altar" },
+  { "predicate": { "custom_model_data": 8360006 }, "model": "manic:item/blight_mold" },
+  { "predicate": { "custom_model_data": 8360007 }, "model": "manic:item/sanity_talisman" },
+  { "predicate": { "custom_model_data": 8360008 }, "model": "manic:item/bound_sanity_talisman" },
+  { "predicate": { "custom_model_data": 8360009 }, "model": "manic:item/corpseflute" },
+  { "predicate": { "custom_model_data": 8360010 }, "model": "manic:item/corpsethorn_tuna" }
+
   ]
 }

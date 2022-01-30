@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/haunted_steel_axe",
+          "name": "manic:items/haunted_steel_axe",
           "functions": [
             {
               "function": "minecraft:set_damage",
@@ -24,7 +24,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/sanity_talisman",
+          "name": "manic:items/sanity_talisman",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
@@ -49,7 +49,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/moonstone",
+          "name": "manic:items/moonstone",
           "functions": [
             {
               "function": "minecraft:set_count",

@@ -1,2 +1,0 @@
-execute as @e[tag=manic.corpsepitcher,sort=nearest,limit=1,distance=..1,scores={manic.pitcher=0}] at @s run function manic:entity/corpsepitcher/interact/receive
-function manic:entity/corpsegourd/trail/delete

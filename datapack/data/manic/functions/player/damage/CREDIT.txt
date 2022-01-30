@@ -1,3 +1,0 @@
-This SHOULD be stated on the page you found this datapack, but in case it's not obvious, we are STUPID, BAD DATAPACKERS.
-Custom library adapted from these nerds' thing:
-https://github.com/rx-modules/Score-Based-Damage

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "manic:entity/podium/podium",
+	"parent": "manic:block/podium/podium",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, 45, 0],

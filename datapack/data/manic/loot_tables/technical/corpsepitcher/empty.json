@@ -1,0 +1,409 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/cheese/twisted_cheese"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:air"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 13
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/cheese/bleeding_cheese"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 12
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:air"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/cheese/strong_cheese"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:air"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 11
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/cheese/dense_cheese"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:air"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 10
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/wine/chorus_gin"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 9
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:glass_bottle"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/wine/sweet_berry_wine"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:glass_bottle"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 7
+            }
+          }
+        ]
+      },
+	  {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/wine/wheat_beer"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:glass_bottle"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 14
+            }
+          }
+        ]
+      },
+	  {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/wine/cactus_tequila"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:glass_bottle"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 15
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/wine/glow_berry_cider"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 8
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:glass_bottle"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lava_bucket"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:bucket"
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 2
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:milk_bucket"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 4
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:bucket"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:honey_bottle"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 5
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:glass_bottle"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/anirrum_bucket"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "manic.dummy": 3
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:bucket"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,80 @@
+[
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "equipment": {
+              "offhand": {
+                "nbt": "{manic:{tool:\"anirrum\"}}"
+              }
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "equipment": {
+              "mainhand": {
+                "nbt": "{manic:{tool:\"anirrum\"}}"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.anirrum_pickaxe": {
+              "min": 1
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.anirrum_sword": {
+              "min": 1
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.anirrum_axe": {
+              "min": 1
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.anirrum_shovel": {
+              "min": 1
+            }
+          }
+        },
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.anirrum_hoe": {
+              "min": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+  

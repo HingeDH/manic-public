@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:8360002}"
+    },
+    "title": {
+      "translate": "manic.advancement.corpsepitcher"
+    },
+    "description": {
+      "translate": "manic.advancement.corpsepitcher.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/corpsebloom",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

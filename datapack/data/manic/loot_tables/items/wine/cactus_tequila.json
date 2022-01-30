@@ -1,0 +1,46 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:mundane\",CustomPotionColor:16777215,HideFlags:32,CustomModelData:8360063,manic:{id:\"cactus_tequila\"}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "manic.item.wine.desc.tequila",
+                  "color": "blue",
+                  "italic": false
+                },
+				{
+                  "translate": "manic.item.wine.desc.tequila2",
+                  "color": "yellow",
+                  "italic": false
+                },
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.cactus_tequila",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "medium_sanity_food": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "tag": "manic:medium_sanity_food"
+        }
+      }
+    },
+    "sweet_berry_muffin": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{tcc:{id:\"sweet_berry_muffin\"}}"
+        }
+      }
+    },
+	"glow_berry_muffin": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{tcc:{id:\"glow_berry_muffin\"}}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "medium_sanity_food",
+      "sweet_berry_muffin",
+      "glow_berry_muffin"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:item/consume/sanity/medium_sanity_food"
+  }
+}

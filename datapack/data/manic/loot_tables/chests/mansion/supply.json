@@ -31,7 +31,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/moonstone",
+          "name": "manic:items/moonstone",
           "functions": [
             {
               "function": "minecraft:set_count",

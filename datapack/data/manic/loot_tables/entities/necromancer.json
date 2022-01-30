@@ -5,7 +5,37 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/sanity_talisman"
+          "name": "manic:items/sanity_talisman"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360000,manic:{id:\"death_item\",entity:\"necromancer\"}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "killer",
+                "predicate": {
+                  "type": "minecraft:wolf"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:killed_by_player"
+            }
+          ]
         }
       ]
     }

@@ -1,5 +1,5 @@
 kill @s[type=marker]
-playsound manic:entity.keeper.spawn hostile @a ~ ~ ~ 2
+playsound manic:entity.keeper.emerge hostile @a ~ ~ ~ 2
 particle block dark_oak_planks ~ ~ ~ 0.5 0.1 0.5 0 50 force
 effect give @a[distance=..32] blindness 1 0 true
 # Change to darkness in 1.19

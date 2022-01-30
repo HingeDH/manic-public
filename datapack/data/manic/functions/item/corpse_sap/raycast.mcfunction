@@ -1,2 +1,0 @@
-execute as @e[tag=manic.corpsebloom,dx=0,limit=1,sort=nearest,scores={manic.sap=1}] positioned ~-0.99 ~-0.99 ~-0.99 at @s[dx=0] run function manic:item/corpse_sap/success
-execute if entity @s[distance=..6,tag=!manic.found] positioned ^ ^ ^0.01 run function manic:item/corpse_sap/raycast

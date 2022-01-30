@@ -1,0 +1,102 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "sap": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:alternative",
+            "terms": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "equipment": {
+                    "mainhand": {
+                      "items": [
+                        "minecraft:glass_bottle"
+                      ],
+                      "count": 1
+                    }
+                  }
+                }
+              },
+              {
+                "condition": "minecraft:inverted",
+                "term": {
+                  "condition": "minecraft:reference",
+                  "name": "manic:entity/full_inventory"
+                }
+              }
+            ]
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:glass_bottle"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsegourd.sappy\"]}"
+        }
+      }
+    },
+    "shears": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:shears"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsegourd.unsheared\",\"manic.block.corpsegourd.grown\"]}"
+        }
+      }
+    },
+    "redstone": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:redstone"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsegourd\"]}",
+          "location": {
+            "block": {
+              "tag": "manic:air"
+            }
+          }
+        }
+      }
+    },
+    "corpseflute": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:carrot_on_a_stick"
+          ],
+          "nbt": "{manic:{id:\"corpseflute\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.block.corpsegourd\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sap",
+      "shears",
+      "redstone",
+      "corpseflute"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:block/corpsegourd/interact/raycast_start"
+  }
+}

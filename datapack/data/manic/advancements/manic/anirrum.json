@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword",
+      "nbt": "{CustomModelData:8360000}"
+    },
+    "title": {
+      "translate": "manic.advancement.anirrum"
+    },
+    "description": {
+      "translate": "manic.advancement.anirrum.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/corpsepitcher",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

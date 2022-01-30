@@ -1,0 +1,114 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/sappy_corpsebloom_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"manic.block.corpsebloom.sappy\"]}"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/wilted_corpsebloom_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"manic.block.corpsebloom.wilted\"]}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/fertile_corpsebloom_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{Tags:[\"manic.block.corpsebloom.wilted\"]}"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{Tags:[\"manic.block.corpsebloom.sappy\"]}"
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"manic.block.corpsebloom.grown\"]}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/corpsebloom_seeds",
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{Tags:[\"manic.block.corpsebloom.grown\"]}"
+                }
+              }
+            },
+			{
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{Tags:[\"manic.block.corpsebloom.sappy\"]}"
+                }
+              }
+            },
+			{
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{Tags:[\"manic.block.corpsebloom.wilted\"]}"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

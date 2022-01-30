@@ -1,2 +1,0 @@
-summon armor_stand ~ ~ ~ {ArmorItems:[{},{},{},{id:"minecraft:slime_ball",Count:1b,tag:{CustomModelData:8360076}}],Invisible:1b,Marker:1b,Tags:["smithed.entity","global.ignore","manic.entity","manic.chitter"]}
-particle minecraft:squid_ink ~ ~ ~ 0.5 0.5 0.5 0 15 force

@@ -1,1 +1,0 @@
-function manic:entity/join_antivillager

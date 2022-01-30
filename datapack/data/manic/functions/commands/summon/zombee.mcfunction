@@ -1,1 +1,0 @@
-function manic:entity/zombee/spawn

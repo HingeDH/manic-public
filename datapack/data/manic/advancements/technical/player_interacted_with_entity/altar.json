@@ -1,0 +1,67 @@
+{
+    "criteria": {
+      "normal": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "equipment": {
+                    "mainhand": {
+                      "items": [
+                        "minecraft:debug_stick"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:wandering_trader",
+                "nbt": "{Tags:[\"manic.block.altar\"]}"
+              }
+            }
+          ]
+        }
+      },
+      "debug": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:debug_stick"
+            ]
+          },
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:wandering_trader",
+                "nbt": "{Tags:[\"manic.block.altar\"]}"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "normal",
+        "debug"
+      ]
+    ],
+    "rewards": {
+      "function": "manic:block/altar/interact/raycast_start"
+    }
+  }
+  

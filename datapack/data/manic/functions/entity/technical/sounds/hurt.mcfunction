@@ -1,0 +1,9 @@
+execute if entity @s[tag=manic.block.corpsebloom,nbt=!{ArmorItems:[{tag:{manic:{corpsebloom_break_state:2}}}]}] run playsound manic:block.corpsebloom.hurt block @a
+execute if entity @s[tag=manic.entity.insomniac] run playsound manic:entity.insomniac.hurt neutral @a
+execute if entity @s[tag=manic.entity.monklin] run playsound manic:entity.monklin.hurt neutral @a
+execute if entity @s[tag=manic.entity.necromancer] run playsound manic:entity.necromancer.hurt hostile @a
+execute if entity @s[tag=manic.entity.eidolon] run playsound manic:entity.eidolon.hurt hostile @a
+execute if entity @s[tag=manic.entity.spook] run playsound manic:entity.spook.hurt hostile @a
+execute if entity @s[tag=manic.entity.revenant] run playsound manic:entity.revenant.hurt hostile @a
+execute if entity @s[tag=manic.entity.mirage] run playsound manic:entity.mirage.hurt hostile @a
+execute if entity @s[tag=manic.entity.corpsecreep] run playsound manic:entity.corpsecreep.hurt hostile @a

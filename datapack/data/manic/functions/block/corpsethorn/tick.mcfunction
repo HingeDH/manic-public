@@ -1,0 +1,1 @@
+execute unless predicate manic:block/corpseplant_check run function manic:block/corpsethorn/break

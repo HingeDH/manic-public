@@ -1,0 +1,2 @@
+function manic:block/corpsebloom/set_state/wilted
+execute as @e[type=wandering_trader,tag=manic.block.corpsegourd.grown,tag=!manic.block.corpsegourd.sappy,tag=!manic.block.corpsegourd.sheared,sort=random,limit=1,distance=..1] at @s run function manic:block/corpsegourd/set_state/sappy

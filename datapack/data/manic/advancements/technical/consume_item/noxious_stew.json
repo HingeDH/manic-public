@@ -1,0 +1,20 @@
+{
+    "parent": "manic:technical/root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:suspicious_stew"
+            ],
+            "nbt": "{manic:{id:\"noxious_stew\"}}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "manic:item/consume/noxious_stew"
+    }
+  }
+  

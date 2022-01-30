@@ -1,0 +1,79 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bread",
+      "nbt": "{CustomModelData:8360000}"
+    },
+    "title": {
+      "translate": "manic.advancement.cheese"
+    },
+    "description": {
+      "translate": "manic.advancement.cheese.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/corpsepitcher",
+  "criteria": {
+    "dense": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bread"
+          ],
+          "nbt": "{manic:{id:\"dense_cheese\"}}"
+        }
+      }
+    },
+    "strong": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bread"
+          ],
+          "nbt": "{manic:{id:\"strong_cheese\"}}"
+        }
+      }
+    },
+	"bleeding": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bread"
+          ],
+          "nbt": "{manic:{id:\"bleeding_cheese\"}}"
+        }
+      }
+    },
+	"twisted": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:bread"
+          ],
+          "nbt": "{manic:{id:\"twisted_cheese\"}}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "dense"
+    ],
+    [
+      "strong"
+    ],
+	[
+      "bleeding"
+    ],
+	[
+      "twisted"
+    ]
+  ]
+}

@@ -1,3 +1,0 @@
-summon wandering_trader ~ ~ ~ {DeathLootTable:"manic:entities/eidolon",HandDropChances:[-327.670F,-327.670F],CustomName:'{"translate":"manic.entity.eidolon"}',DeathTime:19s,Silent:1b,DespawnDelay:0,Tags:["manic.entity","manic.eidolon","smithed.entity","global.ignore","manic.snareable","manic.decay","manic.schizoid"],ArmorDropChances:[-327.670F,-327.670F,-327.670F,-327.670F],Offers:{},ActiveEffects:[{Id:14b,Amplifier:0b,Duration:1000000,ShowParticles:0b}],Health:40f,Attributes:[{Name:generic.max_health,Base:40},{Name:generic.movement_speed,Base:0.35},{Name:generic.knockback_resistance,Base:1.0}]}
-
-execute as @e[tag=manic.eidolon] run function manic:entity/join_antivillager

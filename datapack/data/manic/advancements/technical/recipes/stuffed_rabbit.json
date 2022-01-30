@@ -1,0 +1,17 @@
+{
+  "parent": "manic:technical/recipes/root",
+  "rewards": {
+    "function": "manic:items/craft_nbt_item",
+    "loot": [
+      "manic:item/stuffed_rabbit"
+    ]
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "manic:stuffed_rabbit"
+      }
+    }
+  }
+}

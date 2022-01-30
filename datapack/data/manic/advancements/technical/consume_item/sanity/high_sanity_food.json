@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "high_sanity_food": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "tag": "manic:high_sanity_food"
+        }
+      }
+    },
+    "stuffed_food": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{food:\"high_sanity\"}}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "high_sanity_food",
+      "stuffed_food"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:item/consume/sanity/high_sanity_food"
+  }
+}

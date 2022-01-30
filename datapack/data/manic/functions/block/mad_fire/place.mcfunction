@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~ ~0.5 unless entity @e[tag=manic.block.mad_fire,distance=..0.5] run summon armor_stand ~ ~ ~ {Fire:1000000,HasVisualFire:0b,ArmorItems:[{},{},{},{id:"minecraft:potion",Count:1b,tag:{CustomModelData:8360076}}],Marker:1b,Invisible:1b,Tags:["manic.entity","manic.block","manic.block.mad_fire"]}

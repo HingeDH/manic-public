@@ -1,8 +1,0 @@
-{
-    "condition": "time_check",
-    "period": 192000,
-    "value": {
-        "min": 109000,
-        "max": 119000
-    }
-}

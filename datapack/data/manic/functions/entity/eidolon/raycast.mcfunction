@@ -1,0 +1,3 @@
+execute unless block ~ ~ ~ #manic:raycast_ignore run function manic:entity/eidolon/raycast_cancel
+execute if entity @a[distance=..2,gamemode=!creative,gamemode=!spectator] run function manic:entity/eidolon/raycast_end
+execute positioned ^ ^ ^0.1 if entity @s[distance=0..16,tag=manic.interact] run function manic:entity/eidolon/raycast

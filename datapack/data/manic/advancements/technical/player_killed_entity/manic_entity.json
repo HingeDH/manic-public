@@ -1,0 +1,32 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "kill_schizoid_entity": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{Tags:[\"manic.entity.no_death_effects\"]}"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "nbt": "{Tags:[\"manic.entity\"]}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:entity/technical/death/schedule"
+  }
+}

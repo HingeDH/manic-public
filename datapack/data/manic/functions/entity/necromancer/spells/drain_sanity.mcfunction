@@ -1,0 +1,2 @@
+execute if entity @p[gamemode=!creative,gamemode=!spectator,scores={manic.sanity=100..},distance=0..16] run scoreboard players add @s manic.sanity 4
+scoreboard players remove @p[gamemode=!creative,gamemode=!spectator,scores={manic.sanity=100..}] manic.sanity 100

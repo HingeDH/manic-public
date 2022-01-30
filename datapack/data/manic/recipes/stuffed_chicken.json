@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_chicken"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+		{
+            "item": "minecraft:carrot"
+        },
+		{
+            "item": "minecraft:beetroot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,2 @@
+execute unless score @s tcc.tea matches 1.. unless score @s manic.hide_sanity matches 1.. unless score @s manic.dummy matches ..-1 run function manic:entity/player/sanity/display/static
+execute unless score @s tcc.tea matches 1.. unless score @s manic.hide_sanity matches 1.. if score @s manic.dummy matches ..-1 run function manic:entity/player/sanity/display/twitch

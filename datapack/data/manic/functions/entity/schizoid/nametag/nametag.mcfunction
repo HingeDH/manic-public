@@ -1,0 +1,2 @@
+advancement revoke @s only manic:technical/player_interacted_with_entity/schizoid_nametag
+execute as @e[type=#manic:schizoid,tag=manic.entity.decays,predicate=manic:entity/schizoid/nametag/nametag,sort=nearest,limit=1] run function manic:entity/schizoid/nametag/remove_decay

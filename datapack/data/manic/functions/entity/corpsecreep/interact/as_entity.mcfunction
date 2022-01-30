@@ -1,0 +1,2 @@
+tag @p[advancements={manic:technical/player_interacted_with_entity/corpsecreep=true}] add manic.tag
+execute if data storage manic:storage root.temp{item:{id:"minecraft:flint_and_steel"}} run function manic:entity/corpsecreep/interact/flint_and_steel/main

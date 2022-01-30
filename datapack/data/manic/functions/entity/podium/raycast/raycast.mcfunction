@@ -1,2 +1,0 @@
-execute as @e[tag=manic.podium,dx=0,limit=1,sort=nearest] positioned ~-0.99 ~-0.99 ~-0.99 at @s run function manic:entity/podium/raycast/result
-execute if entity @s[distance=..6,tag=!manic.found] positioned ^ ^ ^0.1 run function manic:entity/podium/raycast/raycast

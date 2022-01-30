@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beetroot_soup",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360000,manic:{id:\"sweet_berry_jam\"}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.sweet_berry_jam",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

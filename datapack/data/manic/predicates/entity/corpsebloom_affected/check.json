@@ -1,0 +1,34 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "offsetY": -1,
+    "predicate": {
+      "block": {
+        "tag": "manic:corpseplant_valid"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "nbt": "{Tags:[\"manic.entity.snared_mob\"]}"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "manic:entity/corpsebloom_affected/general"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "manic:entity/corpsebloom_affected/exceptions"
+      }
+    ]
+  }
+]

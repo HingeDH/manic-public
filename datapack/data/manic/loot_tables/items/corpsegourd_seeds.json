@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360004,manic:{id:\"corpsegourd_seeds\"}}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.corpsegourd_seeds",
+                "color": "white",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,8 @@
 {
  "values":[
    "manic:technical/load",
-   "manic:technical/schedule_1s",
-   "manic:technical/schedule_10s",
-   "manic:technical/schedule_10s",
+   "manic:technical/one_second_clock",
+   "manic:technical/ten_second_clock",
    "manic:animations/load"
   ]
 }

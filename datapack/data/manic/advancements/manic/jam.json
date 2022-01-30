@@ -1,0 +1,43 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:beetroot_soup",
+      "nbt": "{CustomModelData:8360000}"
+    },
+    "title": {
+      "translate": "manic.advancement.jam"
+    },
+    "description": {
+      "translate": "manic.advancement.jam.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/insane",
+  "criteria": {
+    "sweet": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"sweet_berry_jam\"}}"
+        }
+      }
+    },
+    "glow": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"glow_berry_jam\"}}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sweet",
+      "glow"
+    ]
+  ]
+}

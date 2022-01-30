@@ -1,34 +1,48 @@
 {
-  "type": "minecraft:entity",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
           "type": "minecraft:loot_table",
+          "name": "manic:items/vacuuole",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance_with_looting",
+              "chance": 0.6,
+              "looting_multiplier": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
           "functions": [
             {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360000,manic:{id:\"death_item\",entity:\"eidolon\"}}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "killer",
+                "predicate": {
+                  "type": "minecraft:wolf"
+                }
               }
             },
             {
-              "function": "minecraft:looting_enchant",
-              "count": {
-                "min": 0.0,
-                "max": 0.75
-              }
+              "condition": "minecraft:killed_by_player"
             }
-          ],
-          "name": "manic:item/vacuole"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
+          ]
         }
       ]
     }

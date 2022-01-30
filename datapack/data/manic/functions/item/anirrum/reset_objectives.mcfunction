@@ -1,0 +1,10 @@
+scoreboard players reset @s manic.anirrum_sword
+scoreboard players reset @s manic.anirrum_pickaxe
+scoreboard players reset @s manic.anirrum_axe
+scoreboard players reset @s manic.anirrum_shovel
+scoreboard players reset @s manic.anirrum_hoe
+scoreboard players reset @s manic.anirrum_n_sword
+scoreboard players reset @s manic.anirrum_n_pickaxe
+scoreboard players reset @s manic.anirrum_n_axe
+scoreboard players reset @s manic.anirrum_n_shovel
+scoreboard players reset @s manic.anirrum_n_hoe

@@ -2,6 +2,10 @@
 §2Also try TCC!
 §2Also try Florcraft!
 §2Also try Dinos 'n Dodos!
+§2Also try Ocean Additions!
+§2Also try Terralith!
+§2Also try Sanguine!
+§2DO NOT try Minecon Mobs!
 §2Spooky!
 §2Haunted!
 §2Somewhat original!
@@ -9,7 +13,7 @@
 §2Multicellular!
 §2We are the Insomniacs!
 §2Try the pumpkin pops!
-§2Try the stew!
+§2Try the melon pops!
 §2The Circus presents...
 §2Are you mad?
 §2Inspired by Kirby!
@@ -21,6 +25,7 @@
 §2ElBones made the Nether!
 §2Psychic made the Nether!
 §2Nia made the Nether!
+§2Rutherford made the Nether!
 §2Life is Gourd!
 §2Soulforging!
 §2Not so subtle!
@@ -37,11 +42,10 @@
 §2It came from outer space!
 §2Bees!
 §2Zom-Bees!
-§2This text appears more often!
-§2This text appears more often!
 §2Stop reading and play!
 §2Molten!
 §2Not quite development hell!
+§2DEFINITELY DEVELOPMENT HELL
 §2Lore!
 §2Don't starve!
 §2Also try Manic... wait.
@@ -66,7 +70,6 @@
 §2Weep!
 §2Code, Smith, Weld
 §2What are you, scared?
-§2Two stacks of splashes!
 §2More where it came from!
 §2Nobody knows!
 §2It's dark in here...
@@ -79,14 +82,12 @@
 §2YOU made the Nether!
 §2Fun for the whole family!
 §2Locked away!
-§2Fancy pants!
 §2Never stop counting!
 §2Anirrum skinny-dipping!
 §2M y s t e r y !
 §2Warning: may contain "nuts."
 §2Shake your head!
 §2Open your fifth eye!
-§2Crownin' around!
 §2Simple math!
 §2Pick me up mom, I'm scared!
 §2The real sanity is insanity.
@@ -113,8 +114,6 @@
 §2Bad puns included!
 §2Read the advancements!
 §2Can anybody hear me?
-§2I've lost track of time.
-§2HELP!!!
 §2No, don't press that!
 §2Funkier fungi!
 §2Say Cheese!
@@ -124,5 +123,36 @@
 §2Manic but insanity is perfectly balanced
 §2Manic but insanity is OP!!!
 §2Lots of potential!
-§2Optimization!
-§2The end, or the beginning?
+§2Optimisation!
+§2Two ocean additions!
+§2Music by LudoCrypt!
+§2It came from outer space!
+§2They came from somewhere else!
+§2Rituals!
+§2Sigils!
+§2Why not both?
+§2You can't escape it!
+§2Radiance!
+§2Umbra!
+§2Divinity!
+§2Sorrow!
+§2Clarity!
+§2Vitality!
+§2Greed!
+§2Acquaintance!
+§2Punishment!
+§2Instability!
+§2Outdated references!
+§2Justice for Ectohound!
+§2Grinning with joy!
+§2Don't breakdown!
+§2It's not wise to have no eyes!
+§2Into the bonepile!
+§2Atomic trolling!
+§2MY EYES!
+§2YOUR EYES!
+§2NO EYES!
+§2Time and time again!
+§2Special thanks to our players like you. Thank you!
+§2No leaks!
+§2...Quieres?

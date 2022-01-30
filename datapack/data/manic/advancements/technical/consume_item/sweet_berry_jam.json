@@ -1,0 +1,20 @@
+{
+    "parent": "manic:technical/root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:beetroot_soup"
+            ],
+            "nbt": "{manic:{id:\"sweet_berry_jam\"}}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "manic:item/consume/sweet_berry_jam"
+    }
+  }
+  

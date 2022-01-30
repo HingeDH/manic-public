@@ -20,7 +20,7 @@
     },
 	{
       "type": "bitmap",
-      "file": "manic:gui/sanity/eyeball_open.png",
+      "file": "manic:gui/sanity/eyeball_shut.png",
       "ascent": 4,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
 	{
       "type": "bitmap",
-      "file": "manic:gui/sanity/eyeball_shut.png",
+      "file": "manic:gui/sanity/eyeball_open.png",
       "ascent": 4,
       "height": 11,
       "chars": [
@@ -43,6 +43,33 @@
       "height": 11,
       "chars": [
         "\ua004"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_shut_twitch.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua005"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_open_twitch.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua006"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_danger_twitch.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua007"
       ]
     }
   ]

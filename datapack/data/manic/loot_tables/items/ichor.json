@@ -1,0 +1,41 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360051,manic:{id:\"ichor\"},Potion:\"minecraft:mundane\",CustomPotionColor:16777215,HideFlags:32}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "manic.item.ichor.desc",
+                  "color": "blue",
+                  "italic": false
+                },
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.ichor",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

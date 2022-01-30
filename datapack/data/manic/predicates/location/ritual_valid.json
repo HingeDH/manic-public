@@ -1,0 +1,223 @@
+[
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 0,
+      "offsetY": 0,
+      "offsetZ": 1,
+      "predicate": {
+        "block": {
+          "tag": "manic:air"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetX": 1,
+      "offsetY": 0,
+      "offsetZ": 0,
+      "predicate": {
+        "block": {
+          "tag": "manic:air"
+        }
+      }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": 0,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": 0,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": 0,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": 0,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": 0,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": 0,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": 0,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": 0,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": 0,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": 0,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": 0,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": 0,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": 0,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": 0,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": 0,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      }
+  ]
+  

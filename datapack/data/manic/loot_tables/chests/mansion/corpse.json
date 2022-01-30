@@ -58,7 +58,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:item/blight_mold"
+          "name": "manic:items/blight_mold"
         }
       ]
     }

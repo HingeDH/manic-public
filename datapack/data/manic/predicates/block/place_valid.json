@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:block/corpseplant_valid"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:block/general_valid"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+summon phantom ~ ~ ~ {Tags:["manic.entity","smithed.entity","manic.entity.decays","manic.entity.phantom","manic.entity.harmed_by_glowing"]}

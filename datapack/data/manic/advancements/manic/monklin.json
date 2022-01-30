@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block",
+      "nbt": "{CustomModelData:8360006}"
+    },
+    "title": {
+      "translate": "manic.advancement.monklin"
+    },
+    "description": {
+      "translate": "manic.advancement.monklin.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "manic:manic/insomniac",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"manic.entity.monklin\"]}"
+        }
+      }
+    }
+  }
+}

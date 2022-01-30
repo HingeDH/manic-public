@@ -1,0 +1,25 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:entity/schizoid/nametag/mirage_nametag"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:entity/schizoid/nametag/revenant_nametag"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:entity/schizoid/nametag/eidolon_nametag"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:entity/schizoid/nametag/spook_nametag"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "manic:entity/schizoid/nametag/phantom_nametag"
+    }
+  ]
+}

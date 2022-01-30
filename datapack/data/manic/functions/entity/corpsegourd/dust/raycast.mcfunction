@@ -1,2 +1,0 @@
-execute as @e[tag=manic.corpsegourd.grown,dx=0,limit=1,sort=nearest] positioned ~-0.99 ~-0.99 ~-0.99 at @s unless block ~ ~ ~ redstone_wire run function manic:entity/corpsegourd/dust/result
-execute if entity @s[distance=..6,tag=!manic.found] positioned ^ ^ ^0.1 run function manic:entity/corpsegourd/dust/raycast

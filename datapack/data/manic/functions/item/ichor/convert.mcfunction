@@ -2,12 +2,8 @@ data modify entity @s Owner set from entity @e[type=arrow,sort=nearest,limit=1,n
 data modify entity @s Air set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] Air
 data modify entity @s Motion set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] Motion
 data modify entity @s Rotation set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] Rotation
-data modify entity @s ShotFromCrossbow set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] ShotFromCrossbow
 data modify entity @s PierceLevel set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] PierceLevel
-data modify entity @s HasBeenShot set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] HasBeenShot
 data modify entity @s Fire set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] Fire
-data modify entity @s LeftOwner set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] LeftOwner
-data modify entity @s shake set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] shake
 data modify entity @s damage set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] damage
 data modify entity @s crit set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] crit
 data modify entity @s life set from entity @e[type=arrow,sort=nearest,limit=1,nbt={inGround:0b},nbt=!{LeftOwner:1b}] life

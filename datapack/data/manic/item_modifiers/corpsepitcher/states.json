@@ -1,184 +1,211 @@
 [
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360069}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 13
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360080}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 15
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360068}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 12
+      ]
+    },
+	{
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360079}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 14
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360067}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 11
+      ]
+    },
+	{
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360026}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 13
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360066}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 10
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360025}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 12
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360082}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 9
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360024}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 11
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360063}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 8
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360023}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 10
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360064}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 7
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360022}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 9
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360062}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 6
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360021}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 8
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360065}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 5
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360020}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 7
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360061}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 4
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360019}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 6
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360060}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 3
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360018}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 5
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360059}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 2
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360017}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 4
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360058}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 1
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360016}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 3
+          }
         }
-      }
-    ]
-  },
-  {
-    "function": "minecraft:set_nbt",
-    "tag": "{CustomModelData:8360057}",
-    "conditions": [
-      {
-        "condition": "minecraft:entity_scores",
-        "entity": "this",
-        "scores": {
-          "manic.pitcher": 0
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360015}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 2
+          }
         }
-      }
-    ]
-  }
-]
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360014}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 1
+          }
+        }
+      ]
+    },
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{manic:{custom_model_data:{idle:8360013}}}",
+      "conditions": [
+        {
+          "condition": "minecraft:entity_scores",
+          "entity": "this",
+          "scores": {
+            "manic.dummy": 0
+          }
+        }
+      ]
+    }
+  ]
+  

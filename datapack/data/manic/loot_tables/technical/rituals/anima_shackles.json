@@ -1,0 +1,86 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360008,manic:{id:\"anima_shackles\",bound:1b}}"
+            },
+            {
+              "function": "minecraft:copy_nbt",
+              "source": {
+                "type": "minecraft:storage",
+                "source": "manic:storage"
+              },
+              "ops": [
+                {
+                  "source": "root.temp.anima_shackles.truepos",
+                  "target": "anima_shackles.pos",
+                  "op": "replace"
+                },
+                {
+                  "source": "root.temp.anima_shackles.uuid",
+                  "target": "anima_shackles.uuid",
+                  "op": "replace"
+                },
+                {
+                  "source": "root.temp.anima_shackles.dimension",
+                  "target": "anima_shackles.dimension",
+                  "op": "replace"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.anima_shackles",
+                "color": "white",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "manic.item.anima_shackles.lore.pos",
+                  "with": [
+                    {
+                      "nbt": "root.temp.anima_shackles.dimension_lore",
+                      "storage": "manic:storage",
+                      "interpret": true
+                    },
+                    {
+                      "nbt": "root.temp.anima_shackles.pos[0]",
+                      "storage": "manic:storage"
+                    },
+                    {
+                      "nbt": "root.temp.anima_shackles.pos[1]",
+                      "storage": "manic:storage"
+                    },
+                    {
+                      "nbt": "root.temp.anima_shackles.pos[2]",
+                      "storage": "manic:storage"
+                    }
+                  ],
+                  "color": "gray",
+                  "italic": false
+                },
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

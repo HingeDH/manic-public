@@ -1,0 +1,1 @@
+execute if entity @s[tag=manic.block.corpsethorn.sappy] run function manic:block/corpsethorn/send_ray

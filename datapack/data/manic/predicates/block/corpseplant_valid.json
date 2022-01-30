@@ -1,0 +1,61 @@
+[
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "manic:entity/holding/corpsetwig"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "manic:entity/holding/corpsebloom"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "manic:entity/holding/corpsegourd"
+      },
+	  {
+        "condition": "minecraft:reference",
+        "name": "manic:entity/holding/corpsethorn"
+      }
+    ]
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetX": 0,
+    "offsetY": 1,
+    "offsetZ": 0,
+    "predicate": {
+      "block": {
+        "tag": "manic:air"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "manic:air"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "condition": "minecraft:location_check",
+    "offsetX": 0,
+    "offsetY": -1,
+    "offsetZ": 0,
+    "predicate": {
+      "block": {
+        "tag": "manic:corpseplant_valid"
+      }
+    }
+  }
+]

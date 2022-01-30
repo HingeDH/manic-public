@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:slept_in_bed"
+    }
+  },
+  "rewards": {
+    "function": "manic:entity/player/sanity/slept_in_bed"
+  }
+}

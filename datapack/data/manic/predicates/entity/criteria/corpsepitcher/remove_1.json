@@ -1,0 +1,71 @@
+[
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "player": {
+          "gamemode": "creative"
+        }
+      }
+    }
+  },
+  {
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "player": {
+            "advancements": {
+              "manic:technical/player_interacted_with_entity/corpsepitcher": {
+                "reticulum": true
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "player": {
+            "advancements": {
+              "manic:technical/player_interacted_with_entity/corpsepitcher": {
+                "cheese": true
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "player": {
+            "advancements": {
+              "manic:technical/player_interacted_with_entity/corpsepitcher": {
+                "ferment": true
+              }
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "player": {
+            "advancements": {
+              "manic:technical/player_interacted_with_entity/corpsepitcher": {
+                "wine": true
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+]

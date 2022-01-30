@@ -1,1 +1,0 @@
-advancement grant @s through manic:mania/root

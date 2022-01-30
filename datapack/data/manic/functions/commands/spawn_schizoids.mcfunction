@@ -1,0 +1,1 @@
+function manic:entity/schizoid/wormhole/place/place_markers

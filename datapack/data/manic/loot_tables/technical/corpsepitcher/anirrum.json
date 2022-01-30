@@ -1,0 +1,369 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anima_shackles"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:chain"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum_lantern"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:soul_lantern"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/nethirrum_pickaxe"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:netherite_pickaxe"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/anirrum_pickaxe"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:diamond_pickaxe"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/nethirrum_shovel"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:netherite_shovel"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/anirrum_shovel"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:diamond_shovel"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/nethirrum_hoe"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:netherite_hoe"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/anirrum_hoe"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:diamond_hoe"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/altar"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:cauldron"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/podium"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:anvil"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/nethirrum_sword"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:netherite_sword"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/anirrum_sword",
+            "functions": [
+              {
+                "function": "minecraft:copy_nbt",
+                "source": "this",
+                "ops": []
+              }
+            ]
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:diamond_sword"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/nethirrum_axe",
+            "functions": [
+              {
+                "function": "minecraft:copy_nbt",
+                "source": "this",
+                "ops": []
+              }
+            ]
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:netherite_axe"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "manic:items/anirrum/anirrum_axe"
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:diamond_axe"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "functions": [
+      {
+        "function": "minecraft:copy_nbt",
+        "source": "this",
+        "ops": [
+          {
+            "source": "SelectedItem.tag.Enchantments",
+            "target": "Enchantments",
+            "op": "replace"
+          }
+        ]
+      }
+    ]
+  }
+  

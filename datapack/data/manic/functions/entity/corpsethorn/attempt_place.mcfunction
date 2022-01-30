@@ -1,3 +1,0 @@
-scoreboard players add @s[scores={manic.dummy4=..499}] manic.dummy4 1
-execute if entity @s[scores={manic.dummy4=..499}] unless block ^ ^ ^0.01 #manic:raycast_ignore positioned ^ ^ ^0.01 if block ~ ~ ~ #manic:corpsebloom_valid_blocks if block ~ ~1 ~ #manic:air if block ~ ~2 ~ #manic:air align xyz positioned ~0.5 ~1 ~0.5 unless entity @e[tag=smithed.block,distance=..0.75] run function manic:entity/corpsethorn/raycast_success
-execute if entity @s[scores={manic.dummy4=..499}] if block ^ ^ ^0.01 #manic:raycast_ignore positioned ^ ^ ^0.01 run function manic:entity/corpsethorn/attempt_place

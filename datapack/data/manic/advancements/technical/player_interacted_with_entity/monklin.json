@@ -1,0 +1,86 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "sunstone": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"sunstone\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.monklin.tradeable\"]}"
+        }
+      }
+    },
+	"necroplasm": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"necroplasm\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.monklin.tradeable\"]}"
+        }
+      }
+    },
+	"lysosome": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"lysosome\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.monklin.tradeable\"]}"
+        }
+      }
+    },
+	"vacuuole": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"vacuuole\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.monklin.tradeable\"]}"
+        }
+      }
+    },
+	"reticulum": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{id:\"reticulum\"}}"
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.monklin.tradeable\"]}"
+        }
+      }
+    },
+	"membrane": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:phantom_membrane"
+          ]
+        },
+        "entity": {
+          "nbt": "{Tags:[\"manic.entity.monklin.tradeable\"]}"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sunstone",
+      "necroplasm",
+      "lysosome",
+      "vacuuole",
+      "reticulum",
+      "membrane"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:entity/monklin/interact/as_player"
+  }
+}

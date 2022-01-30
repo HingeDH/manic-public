@@ -1,4 +1,3 @@
-summon vindicator ~ ~ ~ {PersistenceRequired:1b}
-item replace entity @e[type=minecraft:vindicator,sort=nearest,limit=1] weapon.mainhand with minecraft:iron_axe
+summon vindicator ~ ~ ~ {PersistenceRequired:1b,HandItems:[{id:"minecraft:iron_axe",Count:1b},{}],DeathLootTable:"manic:entities/mansion/vindicator"}
 
 fill ~ ~ ~ ~ ~1 ~ air

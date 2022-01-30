@@ -1,0 +1,1 @@
+scoreboard players remove @s manic.effect.corpseflute 1

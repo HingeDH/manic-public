@@ -1,4 +1,2 @@
-summon pillager ~ ~ ~ {PersistenceRequired:1b}
-item replace entity @e[type=minecraft:pillager,sort=nearest,limit=1] weapon.mainhand with minecraft:crossbow
-
+summon pillager ~ ~ ~ {PersistenceRequired:1b,HandItems:[{id:"minecraft:crossbow",Count:1b},{}],DeathLootTable:"manic:entities/mansion/pillager"}
 fill ~ ~ ~ ~ ~1 ~ air

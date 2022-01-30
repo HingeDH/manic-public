@@ -1,0 +1,17 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:villager_trade",
+      "conditions": {
+        "villager": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"manic.entity.insomniac\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:entity/insomniac/trade"
+  }
+}
