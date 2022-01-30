@@ -1,6 +1,6 @@
+execute unless score @s manic.sanity = @s manic.sanity run scoreboard players set @s manic.sanity 9999
 scoreboard players reset @s manic.dummy
 execute unless score @s manic.effect.noxious matches 1.. unless score @s manic.death_timer matches 1.. unless entity @s[gamemode=creative] unless entity @s[gamemode=spectator] run function manic:entity/player/sanity/calculate
-execute unless score @s manic.sanity = @s manic.sanity run scoreboard players set @s manic.sanity 9999
 execute if score @s manic.sanity matches -999..-1 run scoreboard players set @s manic.sanity 0
 execute unless score @s tcc.tea matches 1.. run function manic:entity/player/sanity/display/update
 execute if score @s manic.death_timer matches 1.. run scoreboard players remove @s manic.death_timer 1
