@@ -3,7 +3,7 @@
 </p>
 
 Join my Discord server [HERE](https://discord.gg/jsbRvexYqA) for sneak peeks, dev logs, betas and early access!<br/>
-__Current pack version:__ `v0.2-snapshot-5c`
+__Current pack version:__ `v0.2-snapshot-3`
 
 Bored of the current phantoms? Want a new game mechanic? Want something spookier to spice up your Minecraft world? Manic simultaneously reworks the phantom system while attempting to provide a scary, innovative and challenging gameplay mechanic involving Sanity. Manic also provides new tech, tools, and items themed around Sanity.
 Manic is compatible in both 1.17 and 1.18 snapshots. It may show errors on loading in 1.17, but it should work the same.
@@ -21,16 +21,14 @@ __You can find a more comprehensive guide on the official Wiki [here](https://gi
   Manic tries very hard to be compatible with other packs but you may encounter some issues.<br/><br/>
 
   __Actionbar Display__<br/>
-  When playing with a pack that modifies the actionbar be sure to change your actionbar display setting to Wheel, Large Wheel, or Off.<br/>
-  `/trigger manic.display<br/>`
-  This is dependent on the UI scale.<br/><br/>
+  Manic may conflict with other packs that use the actionbar. Packs can set the objective `manic.hide_sanity` to a value to hide the Sanity bar for that amount of ticks. It currently has compatibility with The Creeper's Code's tea.<br/><br/>
 
   __Unlock All Recipes__<br/>
   Manic is not compatible with Unlock All Recipes packs. If you wish to unlock all recipes, use the command:<br/>
   `/advancement grant @s through minecraft:recipes/root`<br/><br/>
 
   __Teams__<br/>
-  Teams may cause slight issues. Manic has built in compatibility for [Smithed](https://smithed.dev) and [The Creeper's Code](https://thecreeperscode.com/).
+  Teams may cause slight issues. Manic has built in compatibility with [Smithed](https://smithed.dev).
 </details>
 <details>
   <summary>
@@ -38,12 +36,11 @@ __You can find a more comprehensive guide on the official Wiki [here](https://gi
   </summary>
   
   __USER CREDITS:__<br/>
-  Psychic5 - `Secondary Coder, Playtester, Brainstorming`<br/>
   ElBones - `Artist, Brainstorming`<br/>
   CreeperMagnet - `Miscellaneous code`<br/>
   Rutherford - `Miscellaneous code`<br/>
   PrimalUgly - `Miscellaneous code and Kinematic Koffee`<br/>
-  Potassium - `Respite Music Disc`<br/>
+  LudoCrypt - [`Cognition Music Disc`](https://www.youtube.com/watch?v=wqpcMhhzXeE)<br/>
   ShockMicro - [`Emissive Textures`](https://github.com/ShockMicro/VanillaDynamicEmissives)<br/>
   rx97 - [`Score Based Damage`](https://github.com/rx-modules/Score-Based-Damage)<br/><br/>
 
