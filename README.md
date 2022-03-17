@@ -41,7 +41,7 @@ __You can find a more comprehensive guide on the official Wiki [here](https://gi
   CreeperMagnet_ - `Miscellaneous code`<br/>
   Ruth3rford - `Miscellaneous code`<br/>
   PrimalUgly - `Miscellaneous code and Kinematic Koffee`<br/>
-  potassium - `Respite Music Disc`
+  potassium - `Respite Music Disc`<br/>
   ShockMicro - [`Emissive Textures`](https://github.com/ShockMicro/VanillaDynamicEmissives)<br/>
   rx97 - [`Score Based Damage`](https://github.com/rx-modules/Score-Based-Damage)<br/><br/>
 
