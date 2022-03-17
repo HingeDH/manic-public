@@ -1,2 +1,0 @@
-execute if entity @s[type=minecraft:area_effect_cloud] run tp @s ^-0.625 ^1.5622501969337463 ^-0.04891910403966904 ~ ~
-execute if entity @s[type=minecraft:armor_stand] run data merge entity @s {Pose:{Head:[-1.62f,0f,0f]}}

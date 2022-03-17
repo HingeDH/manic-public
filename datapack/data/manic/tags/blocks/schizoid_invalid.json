@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#minecraft:stairs",
+    "#minecraft:slabs",
+    "#minecraft:carpets",
+    "#minecraft:impermeable",
+    "minecraft:lava",
+    "minecraft:magma_block",
+    "minecraft:powder_snow"
+  ]
+}

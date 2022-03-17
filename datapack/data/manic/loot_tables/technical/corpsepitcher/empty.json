@@ -378,7 +378,7 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "manic:items/anirrum/anirrum_bucket"
+            "name": "manic:items/anirrum/anirrum_ingot"
           }
         ],
         "conditions": [
@@ -396,7 +396,7 @@
               "equipment": {
                 "mainhand": {
                   "items": [
-                    "minecraft:bucket"
+                    "minecraft:air"
                   ]
                 }
               }

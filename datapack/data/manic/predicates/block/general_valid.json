@@ -9,7 +9,11 @@
         {
             "condition": "minecraft:reference",
             "name": "manic:entity/holding/altar"
-          }
+        },
+		{
+            "condition": "minecraft:reference",
+            "name": "manic:entity/holding/brazier"
+        }
       ]
     },
     {

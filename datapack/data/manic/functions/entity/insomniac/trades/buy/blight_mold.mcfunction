@@ -5,5 +5,5 @@ loot replace entity @s weapon.offhand loot manic:items/blight_mold
 data modify entity @s Offers.Recipes[-1].sell set from entity @s HandItems[1]
 loot replace entity @s weapon.offhand loot manic:items/moonstone
 data modify entity @s Offers.Recipes[-1].buy set from entity @s HandItems[1]
-data modify entity @s Offers.Recipes[-1].buy.Count set value 12
+data modify entity @s Offers.Recipes[-1].buy.Count set value 10
 item replace entity @s weapon.offhand with air

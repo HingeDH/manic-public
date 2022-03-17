@@ -71,6 +71,51 @@
       "chars": [
         "\ua007"
       ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/bar_lunacy.png",
+      "ascent": 2,
+      "height": 9,
+      "chars": [
+        "\ua008"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_lunacy.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua009"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_lunacy_twitch.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua010"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_lunacy_lit.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua011"
+      ]
+    },
+	{
+      "type": "bitmap",
+      "file": "manic:gui/sanity/eyeball_lunacy_lit_twitch.png",
+      "ascent": 4,
+      "height": 11,
+      "chars": [
+        "\ua012"
+      ]
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/anirrum_helmet" },
+	{ "predicate": { "custom_model_data": 8360001 }, "model": "manic:item/nethirrum_helmet" }
+  ]
+}

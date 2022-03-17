@@ -7,5 +7,6 @@ execute if predicate manic:location/range/32_to_64 run spreadplayers ~ ~ 1 48 un
 execute if predicate manic:location/range/0_to_32 run spreadplayers ~ ~ 1 48 under 32 false @s
 execute if predicate manic:location/range/-64_to_0 run spreadplayers ~ ~ 1 48 under 0 false @s
 
-execute at @s run function manic:commands/summon/insomniac
+execute at @s unless entity @p[distance=..4] run function manic:commands/summon/insomniac
+execute at @s unless entity @p[distance=..4] run scoreboard players set #manic.insomniac manic.dummy 240
 kill @s[type=marker]

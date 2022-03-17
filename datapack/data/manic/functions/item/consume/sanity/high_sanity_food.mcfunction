@@ -1,2 +1,2 @@
 advancement revoke @s only manic:technical/consume_item/sanity/high_sanity_food
-scoreboard players add @s manic.sanity 35
+scoreboard players add @s manic.sanity 120

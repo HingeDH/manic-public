@@ -15,6 +15,7 @@ execute if entity @s[tag=manic.block.corpsepitcher] unless predicate manic:block
 execute if entity @s[tag=manic.block.corpsegourd] run function manic:block/corpsegourd/tick
 execute if entity @s[tag=manic.block.corpsethorn] run function manic:block/corpsethorn/tick
 execute if entity @s[tag=manic.block.podium] unless predicate manic:block/podium_check run function manic:block/podium/break
+execute if entity @s[tag=manic.block.brazier] unless predicate manic:block/podium_check run function manic:block/brazier/break
 execute if entity @s[tag=manic.block.altar] run function manic:block/altar/tick
 execute if entity @s[tag=manic.entity.eidolon] run function manic:entity/eidolon/tick
 execute if entity @s[tag=manic.entity.vessel] run function manic:entity/vessel/tick

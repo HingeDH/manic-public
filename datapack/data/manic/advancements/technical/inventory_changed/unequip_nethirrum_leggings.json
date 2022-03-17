@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "chest": {
+                    "items": [
+                      "minecraft:leather_leggings"
+                    ],
+                    "nbt": "{manic:{id:\"nethirrum_leggings\"}}"
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "items": [
+          {
+            "items": [
+              "minecraft:leather_leggings"
+            ],
+            "nbt": "{manic:{id:\"nethirrum_leggings\"}}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:item/anirrum/armor/unequip/nethirrum_leggings/start"
+  }
+}

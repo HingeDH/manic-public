@@ -7,7 +7,7 @@ execute if score @s manic.dummy matches 2 run playsound minecraft:item.bucket.em
 execute if score @s manic.dummy matches 2 run setblock ~ ~ ~ light[level=15]
 execute if score @s manic.dummy matches 3 run playsound minecraft:item.bucket.empty_lava player @a[distance=0..16] ~ ~ ~ 1 0.4
 execute if score @s manic.dummy matches 3 run setblock ~ ~ ~ light[level=10]
-execute if score @s manic.dummy matches 4 run playsound minecraft:item.bucket.empty player @a[distance=0..16] ~ ~ ~ 1 1.25
+execute if score @s manic.dummy matches 4 run playsound minecraft:block.anvil.place block @a ~ ~ ~ 1 1.5
 execute if score @s manic.dummy matches 5 run playsound minecraft:item.honey_bottle.drink player @a[distance=0..16] ~ ~ ~ 1.5 0.8
 execute if score @s manic.dummy matches 6..9 run playsound minecraft:block.brewing_stand.brew player @a[distance=0..16] ~ ~ ~ 0.5 1.5
 execute if score @s manic.dummy matches 14..15 run playsound minecraft:block.brewing_stand.brew player @a[distance=0..16] ~ ~ ~ 0.5 1.5

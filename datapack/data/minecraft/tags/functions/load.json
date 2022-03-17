@@ -2,7 +2,6 @@
  "values":[
    "manic:technical/load",
    "manic:technical/one_second_clock",
-   "manic:technical/ten_second_clock",
-   "manic:animations/load"
+   "manic:technical/ten_second_clock"
   ]
 }

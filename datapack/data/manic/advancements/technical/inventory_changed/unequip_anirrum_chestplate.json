@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "chest": {
+                    "items": [
+                      "minecraft:leather_chestplate"
+                    ],
+                    "nbt": "{manic:{id:\"anirrum_chestplate\"}}"
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "items": [
+          {
+            "items": [
+              "minecraft:leather_chestplate"
+            ],
+            "nbt": "{manic:{id:\"anirrum_chestplate\"}}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:item/anirrum/armor/unequip/anirrum_chestplate/start"
+  }
+}

@@ -1,4 +1,4 @@
-execute if score @s manic.sanity matches ..1111 run playsound manic:ambient.insane.loop ambient @s
+execute if score @s manic.sanity matches ..2222 run playsound manic:ambient.insane.loop ambient @s
 playsound manic:ambient.insane.waning ambient @s
 execute if predicate manic:chance/one_third run playsound manic:ambient.insane.additions ambient @s
 execute if predicate manic:chance/three_percent run playsound manic:ambient.insane.mood ambient @s

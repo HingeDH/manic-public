@@ -1,20 +1,16 @@
 {
-    "parent": "manic:technical/root",
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:consume_item",
-        "conditions": {
-          "item": {
-            "items": [
-              "minecraft:honey_bottle"
-            ],
-            "nbt": "{manic:{stuffed:\"true\"}}"
-          }
+  "parent": "manic:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{manic:{stuffed:\"true\"}}"
         }
       }
-    },
-    "rewards": {
-      "function": "manic:item/consume/stuffed_food"
     }
+  },
+  "rewards": {
+    "function": "manic:item/consume/stuffed_food"
   }
-  
+}

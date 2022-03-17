@@ -44,22 +44,20 @@
                 "equipment": {
                   "mainhand": {
                     "items": [
-                      "minecraft:carrot_on_a_stick"
-                    ],
-                    "nbt": "{manic:{id:\"anirrum_bucket\"}}"
+                      "minecraft:milk_bucket"
+                    ]
                   }
                 }
               }
             },
-            {
+			{
               "condition": "minecraft:entity_properties",
               "entity": "this",
               "predicate": {
                 "equipment": {
                   "mainhand": {
                     "items": [
-                      "minecraft:lava_bucket",
-                      "minecraft:milk_bucket"
+                      "minecraft:lava_bucket"
                     ]
                   }
                 }

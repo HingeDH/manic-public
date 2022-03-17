@@ -6,3 +6,4 @@ execute if entity @s[tag=manic.block.corpsegourd] run function manic:block/corps
 execute if entity @s[tag=manic.block.corpsethorn] run function manic:block/corpsethorn/hurt
 execute if entity @s[tag=manic.block.podium] run function manic:block/podium/hurt
 execute if entity @s[tag=manic.block.altar] run function manic:block/altar/hurt
+execute if entity @s[tag=manic.block.brazier] run function manic:block/brazier/hurt

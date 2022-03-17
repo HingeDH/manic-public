@@ -1,9 +1,9 @@
 {
   "parent": "manic:technical/recipes/root",
   "rewards": {
-    "function": "manic:items/craft_nbt_item",
+    "function": "manic:item/craft_nbt_item",
     "loot": [
-      "manic:item/stuffed_rabbit"
+      "manic:items/stuffed_rabbit"
     ]
   },
   "criteria": {

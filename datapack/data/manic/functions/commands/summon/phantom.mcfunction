@@ -1,1 +1,1 @@
-summon phantom ~ ~ ~ {Tags:["manic.entity","smithed.entity","manic.entity.decays","manic.entity.phantom","manic.entity.harmed_by_glowing"]}
+summon phantom ~ ~ ~ {Tags:["manic.entity","smithed.entity","manic.entity.decays","manic.entity.phantom","manic.entity.harmed_by_glowing"],Health:25f,Attributes:[{Name:generic.max_health,Base:25},{Name:generic.follow_range,Base:64},{Name:generic.armor,Base:6}]}

@@ -1,158 +1,119 @@
-§2Also try Everything is Terrible!
-§2Also try TCC!
-§2Also try Florcraft!
-§2Also try Dinos 'n Dodos!
-§2Also try Ocean Additions!
-§2Also try Terralith!
-§2Also try Sanguine!
-§2DO NOT try Minecon Mobs!
-§2Spooky!
-§2Haunted!
-§2Somewhat original!
-§2Interdimensionality!
-§2Multicellular!
-§2We are the Insomniacs!
-§2Try the pumpkin pops!
-§2Try the melon pops!
-§2The Circus presents...
-§2Are you mad?
-§2Inspired by Kirby!
-§2Do not try at home!
-§2Beware the Moon
-§2Psy-Code-Path
-§2Nia Nyan~
-§2THE
-§2ElBones made the Nether!
-§2Psychic made the Nether!
-§2Nia made the Nether!
-§2Rutherford made the Nether!
-§2Life is Gourd!
-§2Soulforging!
-§2Not so subtle!
-§2Backwards compat?
-§2Inside jokes galore!
-§2I hate you!
+§5Also try TCC!
+§5Also try Florcraft!
+§5Also try Dinos 'n Dodos!
+§5Also try Ocean Additions!
+§5Also try Terralith!
+§5Also try Sanguine!
+§5Sponsored by Smithed!
+§5Spooky!
+§5Haunted!
+§5Somewhat original!
+§5Interdimensionality!
+§5Multicellular!
+§5We are the Insomniacs!
+§5Try the pumpkin pops!
+§5Try the melon pops!
+§5The Circus presents...
+§5Are you mad?
+§5Inspired by Kirby!
+§5Do not try at home!
+§5Beware the Moon
+§5Nia Nyan~
+§5THE
+§5ElBones made the Nether!
+§5Hinge made the Nether!
+§5Rutherford made the Nether!
+§5Life is Gourd!
+§5Soulforging!
+§5Not so subtle!
+§5Backwards compat?
+§5Inside jokes galore!
+§5We hate you!
 §dHey, this one's pink!
-§2It let out a little wine
-§2Sanity!
-§2Insanity!
-§2Hard mode!
-§2The powerhouse of the cell!
-§2Spaghetti code!
-§2It came from outer space!
-§2Bees!
-§2Zom-Bees!
-§2Stop reading and play!
-§2Molten!
-§2Not quite development hell!
-§2DEFINITELY DEVELOPMENT HELL
-§2Lore!
-§2Don't starve!
-§2Also try Manic... wait.
-§2Show your grandma!
-§2Raveyard!
-§2Mojang doesn't have the GUTS!
-§2Compatible!
-§2Spooks spook the spooked!
-§2Super!
-§2Of bars and wheels!
-§2One in a million!
-§2Not OP!
-§2Hello PMC!
-§2Bloom!
-§2Gloom!
-§2Take your meds!
-§2Exclamatory!
-§2You can't do it!
-§2Plants vs. Zombies!
-§2Get mad!
-§2Spooky!
-§2Weep!
-§2Code, Smith, Weld
-§2What are you, scared?
-§2More where it came from!
-§2Nobody knows!
-§2It's dark in here...
-§2Insomniacs VHS sold separately
-§2Rock bottom!
-§2Mean and... Green? Not green!
-§2This splash, however, is mundane.
-§2Paranoia in Minecraft!
-§2Blooming with content!
-§2YOU made the Nether!
-§2Fun for the whole family!
-§2Locked away!
-§2Never stop counting!
-§2Anirrum skinny-dipping!
-§2M y s t e r y !
-§2Warning: may contain "nuts."
-§2Shake your head!
-§2Open your fifth eye!
-§2Simple math!
-§2Pick me up mom, I'm scared!
-§2The real sanity is insanity.
-§2Because it could get worse!
-§2Respite!
-§2Also try The End is Nigh!
-§2The end IS nigh!
-§2Sponsored by ME!
-§2End update!
-§2Biology!
-§2Data-packed with content!
-§2Better than you!
-§2Hexing!
-§2Wait, what?
-§2A different kind of city folk!
-§2Running out of time!
-§2Pay your life insurance!
-§2Fine then, I'll do it myself!
-§2Unpopular popularity!
-§2Manic franchise!
-§2Better than ever!
-§2I... need... ideas...
-§2That moon can see?!
-§2Bad puns included!
-§2Read the advancements!
-§2Can anybody hear me?
-§2No, don't press that!
-§2Funkier fungi!
-§2Say Cheese!
-§2Keep your promises!
-§2The one and only.
-§2Knock it off!
-§2Manic but insanity is perfectly balanced
-§2Manic but insanity is OP!!!
-§2Lots of potential!
-§2Optimisation!
-§2Two ocean additions!
-§2Music by LudoCrypt!
-§2It came from outer space!
-§2They came from somewhere else!
-§2Rituals!
-§2Sigils!
-§2Why not both?
-§2You can't escape it!
-§2Radiance!
-§2Umbra!
-§2Divinity!
-§2Sorrow!
-§2Clarity!
-§2Vitality!
-§2Greed!
-§2Acquaintance!
-§2Punishment!
-§2Instability!
-§2Outdated references!
-§2Justice for Ectohound!
-§2Grinning with joy!
-§2Don't breakdown!
-§2It's not wise to have no eyes!
-§2Into the bonepile!
-§2Atomic trolling!
-§2MY EYES!
-§2YOUR EYES!
-§2NO EYES!
-§2Time and time again!
-§2Special thanks to our players like you. Thank you!
-§2No leaks!
-§2...Quieres?
+§5It let out a little wine
+§5Sanity!
+§5Insanity!
+§5The powerhouse of the cell!
+§5It came from outer space!
+§5Bees!
+§5Zom-Bees!
+§5Stop reading and play!
+§5Molten!
+§5Not quite development hell!
+§5Lore!
+§5Don't starve!
+§5Also try Manic... wait.
+§5Show your grandma!
+§5Raveyard!
+§5Mojang doesn't have the GUTS!
+§5Compatible!
+§5Spooks spook the spooked!
+§5Of bars and wheels!
+§5Not OP!
+§5Hello PMC!
+§5Bloom!
+§5Gloom!
+§5Take your meds!
+§5Plants vs. Zombies!
+§5Spooky!
+§5Code, Smith, Weld
+§5What are you, scared?
+§5More where it came from!
+§5It's dark in here...
+§5Insomniacs VHS sold separately
+§5Rock bottom!
+§5Mean and... Green? Not green!
+§5This splash, however, is mundane.
+§5Paranoia in Minecraft!
+§5Blooming with content!
+§5YOU made the Nether!
+§5Fun for the whole family!
+§5Locked away!
+§5Never stop counting!
+§5Anirrum skinny-dipping!
+§5M y s t e r y !
+§5Warning: may contain "nuts."
+§5Shake your head!
+§5Open your fifth eye!
+§5Simple math!
+§5Pick me up mom, I'm scared!
+§5The real sanity is insanity.
+§5Respite!
+§5respite!
+§5Sponsored by ME!
+§5End update!
+§5Biology!
+§5Data-packed with content!
+§5Better than you!
+§5Hexing!
+§5Wait, what?
+§5A different kind of city folk!
+§5Running out of time!
+§5Pay your life insurance!
+§5Unpopular popularity!
+§5Manic franchise!
+§5Better than ever!
+§5Bad puns included!
+§5Read the advancements!
+§5Can anybody hear me?
+§5Funkier fungi!
+§5Say Cheese!
+§5Knock it off!
+§5Manic but insanity is perfectly balanced
+§5Manic but insanity is OP!!!
+§5Lots of potential!
+§5Optimisation!
+§5Two ocean additions!
+§5It came from outer space!
+§5Rituals!
+§5Sigils!
+§5Why not both?
+§5You can't escape it!
+§5Outdated references!
+§5Justice for Ectohound!
+§5Grinning with joy!
+§5Don't breakdown!
+§5It's not wise to have no eyes!
+§5MY EYES!
+§5YOUR EYES!
+§5NO EYES!

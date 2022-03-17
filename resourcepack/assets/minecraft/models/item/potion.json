@@ -73,7 +73,6 @@
 	{ "predicate": { "custom_model_data": 8360065 }, "model": "manic:entity/eidolon/idle" },
 	{ "predicate": { "custom_model_data": 8360066 }, "model": "manic:entity/eidolon/walking" },
 	{ "predicate": { "custom_model_data": 8360067 }, "model": "manic:entity/eidolon/charge" },
-	{ "predicate": { "custom_model_data": 8360067 }, "model": "manic:entity/corpsecreep/idle" },
 	{ "predicate": { "custom_model_data": 8360068 }, "model": "manic:entity/corpsecreep/walking" },
 	{ "predicate": { "custom_model_data": 8360069 }, "model": "manic:entity/corpsecreep/ignited" },
 	{ "predicate": { "custom_model_data": 8360070 }, "model": "manic:entity/tumors/spook" },
@@ -92,6 +91,12 @@
 	{ "predicate": { "custom_model_data": 8360083 }, "model": "manic:block/corpsethorn/satisfied" },
 	{ "predicate": { "custom_model_data": 8360084 }, "model": "manic:block/corpsethorn/satisfied_blooming" },
 	{ "predicate": { "custom_model_data": 8360085 }, "model": "manic:block/sanity_ray/sanity_down" },
-	{ "predicate": { "custom_model_data": 8360086 }, "model": "manic:block/sanity_ray/sanity_up" }
+	{ "predicate": { "custom_model_data": 8360086 }, "model": "manic:block/sanity_ray/sanity_up" },
+	{ "predicate": { "custom_model_data": 8360087 }, "model": "manic:entity/traitor/head" },
+	{ "predicate": { "custom_model_data": 8360088 }, "model": "manic:entity/traitor/idle" },
+	{ "predicate": { "custom_model_data": 8360089 }, "model": "manic:entity/traitor/walking" },
+	{ "predicate": { "custom_model_data": 8360090 }, "model": "manic:block/brazier/off" },
+	{ "predicate": { "custom_model_data": 8360091 }, "model": "manic:block/brazier/on" },
+	{ "predicate": { "custom_model_data": 8360092 }, "model": "manic:entity/corpsecreep/idle" }
   ]
 }

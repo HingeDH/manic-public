@@ -6,3 +6,4 @@ execute if entity @s[tag=manic.entity.ritual_rift] run function manic:block/alta
 execute if entity @s[tag=manic.keeper_spawn] run function manic:entity/keeper/marker
 execute if entity @s[tag=manic.keeper] run function manic:entity/keeper/tick_1s
 execute if entity @s[tag=manic.keeper_scare] run function manic:entity/keeper/scare_tick
+execute if entity @s[tag=manic.block.beacon] run function manic:block/beacon/second_clock

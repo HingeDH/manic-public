@@ -1,10 +1,20 @@
 execute if score @s manic.sanity matches 0..5 run title @s actionbar {"text":"\ua000\ua000\ua000\ua000\ua007\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 6..1111 run title @s actionbar {"text":"\ua001\ua000\ua000\ua000\ua007\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 1112..2222 run title @s actionbar {"text":"\ua001\ua001\ua000\ua000\ua007\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
-execute if score @s manic.sanity matches 2223..3333 run title @s actionbar {"text":"\ua001\ua001\ua001\ua000\ua006\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches 2223..3333 run title @s actionbar {"text":"\ua001\ua001\ua001\ua000\ua007\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 3334..4444 run title @s actionbar {"text":"\ua001\ua001\ua001\ua001\ua006\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 4445..5555 run title @s actionbar {"text":"\ua001\ua001\ua001\ua001\ua005\ua000\ua000\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 5556..6666 run title @s actionbar {"text":"\ua001\ua001\ua001\ua001\ua005\ua001\ua000\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 6667..7777 run title @s actionbar {"text":"\ua001\ua001\ua001\ua001\ua005\ua001\ua001\ua000\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 7778..8888 run title @s actionbar {"text":"\ua001\ua001\ua001\ua001\ua005\ua001\ua001\ua001\ua000","font":"manic:sanity_bar"}
 execute if score @s manic.sanity matches 8889..9999 run title @s actionbar {"text":"\ua001\ua001\ua001\ua001\ua005\ua001\ua001\ua001\ua001","font":"manic:sanity_bar"}
+
+execute if score @s manic.sanity matches -1333..-1000 run title @s actionbar {"text":"\ua000\ua000\ua000\ua000\ua010\ua000\ua000\ua000\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -1666..-1333 run title @s actionbar {"text":"\ua000\ua000\ua000\ua000\ua010\ua000\ua000\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -1999..-1666 run title @s actionbar {"text":"\ua000\ua000\ua000\ua000\ua010\ua000\ua008\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -2332..-1999 run title @s actionbar {"text":"\ua000\ua000\ua000\ua000\ua010\ua008\ua008\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -2665..-2332 run title @s actionbar {"text":"\ua000\ua000\ua000\ua000\ua012\ua008\ua008\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -2998..-2665 run title @s actionbar {"text":"\ua000\ua000\ua000\ua008\ua012\ua008\ua008\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -3331..-2998 run title @s actionbar {"text":"\ua000\ua000\ua008\ua008\ua012\ua008\ua008\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -3664..-3331 run title @s actionbar {"text":"\ua000\ua008\ua008\ua008\ua012\ua008\ua008\ua008\ua008","font":"manic:sanity_bar"}
+execute if score @s manic.sanity matches -4000..-3664 run title @s actionbar {"text":"\ua008\ua008\ua008\ua008\ua012\ua008\ua008\ua008\ua008","font":"manic:sanity_bar"}

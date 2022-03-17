@@ -1,3 +1,0 @@
-execute if score @s kiko.frame matches 49 run execute as @e[distance=..25,type=#manic:kiko_element,tag=kiko.element,tag=manic.keeper.kiko_element] if score @s kiko.id = #kiko_fp kiko.id run function manic:animations/keeper/death/frame_49
-execute if score @s kiko.frame matches 33..48 run function manic:animations/keeper/death/bst/35
-execute if score @s kiko.frame matches 50..65 run function manic:animations/keeper/death/bst/50

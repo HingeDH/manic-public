@@ -1,1 +1,0 @@
-execute as @s[tag=!manic.entity.vessel.full] if entity @e[type=minecraft:ender_pearl,distance=0..3] run function manic:entity/vessel/pearl/recieve

@@ -5,22 +5,50 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:items/necroplasm",
+          "name": "manic:items/spectre_gelatin",
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 1
-              }
+              "count": 1,
+              "add": false
             },
             {
               "function": "minecraft:looting_enchant",
               "count": {
                 "min": 0,
                 "max": 1
+              }
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:killed_by_player"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/necroplasm",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 2
               },
-              "limit": 2
+              "add": false
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
             }
           ]
         }

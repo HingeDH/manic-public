@@ -17,7 +17,7 @@
             "offsetY": 1,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -29,7 +29,7 @@
             "offsetY": 2,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -41,7 +41,7 @@
             "offsetY": 3,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -53,7 +53,7 @@
             "offsetY": 4,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -65,7 +65,7 @@
             "offsetY": 5,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -77,7 +77,7 @@
             "offsetY": 6,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -89,7 +89,7 @@
             "offsetY": 7,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -101,7 +101,7 @@
             "offsetY": 8,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -113,7 +113,7 @@
             "offsetY": 9,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -125,7 +125,7 @@
             "offsetY": 10,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -137,7 +137,7 @@
             "offsetY": 11,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -149,7 +149,7 @@
             "offsetY": 12,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -161,7 +161,7 @@
             "offsetY": 13,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -173,7 +173,7 @@
             "offsetY": 14,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -185,7 +185,7 @@
             "offsetY": 15,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -197,7 +197,7 @@
             "offsetY": 16,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -209,7 +209,7 @@
             "offsetY": 17,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -221,7 +221,7 @@
             "offsetY": 18,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -233,7 +233,7 @@
             "offsetY": 19,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -245,7 +245,7 @@
             "offsetY": 20,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -257,7 +257,7 @@
             "offsetY": 21,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -269,7 +269,7 @@
             "offsetY": 22,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -281,7 +281,7 @@
             "offsetY": 23,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -293,7 +293,7 @@
             "offsetY": 24,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -305,7 +305,7 @@
             "offsetY": 25,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -317,7 +317,7 @@
             "offsetY": 26,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -329,7 +329,7 @@
             "offsetY": 27,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -341,7 +341,7 @@
             "offsetY": 28,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -353,7 +353,7 @@
             "offsetY": 29,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -365,7 +365,7 @@
             "offsetY": 30,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -377,7 +377,7 @@
             "offsetY": 31,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -389,7 +389,7 @@
             "offsetY": 32,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -401,7 +401,7 @@
             "offsetY": 33,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -413,7 +413,7 @@
             "offsetY": 34,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -425,7 +425,7 @@
             "offsetY": 35,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -437,7 +437,7 @@
             "offsetY": 36,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -449,7 +449,7 @@
             "offsetY": 37,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -461,7 +461,7 @@
             "offsetY": 38,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -473,7 +473,7 @@
             "offsetY": 39,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -485,7 +485,7 @@
             "offsetY": 40,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -497,7 +497,7 @@
             "offsetY": 41,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -509,7 +509,7 @@
             "offsetY": 42,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -521,7 +521,7 @@
             "offsetY": 43,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -533,7 +533,7 @@
             "offsetY": 44,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -545,7 +545,7 @@
             "offsetY": 45,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -557,7 +557,7 @@
             "offsetY": 46,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -569,7 +569,7 @@
             "offsetY": 47,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -581,7 +581,7 @@
             "offsetY": 48,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -593,7 +593,7 @@
             "offsetY": 49,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -605,7 +605,7 @@
             "offsetY": 50,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -617,7 +617,7 @@
             "offsetY": 51,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -629,7 +629,7 @@
             "offsetY": 52,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -641,7 +641,7 @@
             "offsetY": 53,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -653,7 +653,7 @@
             "offsetY": 54,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -665,7 +665,7 @@
             "offsetY": 55,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -677,7 +677,7 @@
             "offsetY": 56,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -689,7 +689,7 @@
             "offsetY": 57,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -701,7 +701,7 @@
             "offsetY": 58,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -713,7 +713,7 @@
             "offsetY": 59,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -725,7 +725,7 @@
             "offsetY": 60,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -737,7 +737,7 @@
             "offsetY": 61,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -749,7 +749,7 @@
             "offsetY": 62,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -761,7 +761,7 @@
             "offsetY": 63,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -773,7 +773,7 @@
             "offsetY": 64,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -785,7 +785,7 @@
             "offsetY": 65,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -797,7 +797,7 @@
             "offsetY": 66,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -809,7 +809,7 @@
             "offsetY": 67,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -821,7 +821,7 @@
             "offsetY": 68,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -833,7 +833,7 @@
             "offsetY": 69,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -845,7 +845,7 @@
             "offsetY": 70,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -857,7 +857,7 @@
             "offsetY": 71,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -869,7 +869,7 @@
             "offsetY": 72,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -881,7 +881,7 @@
             "offsetY": 73,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -893,7 +893,7 @@
             "offsetY": 74,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -905,7 +905,7 @@
             "offsetY": 75,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -917,7 +917,7 @@
             "offsetY": 76,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -929,7 +929,7 @@
             "offsetY": 77,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -941,7 +941,7 @@
             "offsetY": 78,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -953,7 +953,7 @@
             "offsetY": 79,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -965,7 +965,7 @@
             "offsetY": 80,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -977,7 +977,7 @@
             "offsetY": 81,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -989,7 +989,7 @@
             "offsetY": 82,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1001,7 +1001,7 @@
             "offsetY": 83,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1013,7 +1013,7 @@
             "offsetY": 84,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1025,7 +1025,7 @@
             "offsetY": 85,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1037,7 +1037,7 @@
             "offsetY": 86,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1049,7 +1049,7 @@
             "offsetY": 87,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1061,7 +1061,7 @@
             "offsetY": 88,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1073,7 +1073,7 @@
             "offsetY": 89,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1085,7 +1085,7 @@
             "offsetY": 90,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1097,7 +1097,7 @@
             "offsetY": 91,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1109,7 +1109,7 @@
             "offsetY": 92,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1121,7 +1121,7 @@
             "offsetY": 93,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1133,7 +1133,7 @@
             "offsetY": 94,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1145,7 +1145,7 @@
             "offsetY": 95,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1157,7 +1157,7 @@
             "offsetY": 96,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1169,7 +1169,7 @@
             "offsetY": 97,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1181,7 +1181,7 @@
             "offsetY": 98,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1193,7 +1193,7 @@
             "offsetY": 99,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1205,7 +1205,7 @@
             "offsetY": 100,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1217,7 +1217,7 @@
             "offsetY": 101,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1229,7 +1229,7 @@
             "offsetY": 102,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1241,7 +1241,7 @@
             "offsetY": 103,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1253,7 +1253,7 @@
             "offsetY": 104,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1265,7 +1265,7 @@
             "offsetY": 105,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1277,7 +1277,7 @@
             "offsetY": 106,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1289,7 +1289,7 @@
             "offsetY": 107,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1301,7 +1301,7 @@
             "offsetY": 108,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1313,7 +1313,7 @@
             "offsetY": 109,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1325,7 +1325,7 @@
             "offsetY": 110,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1337,7 +1337,7 @@
             "offsetY": 111,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1349,7 +1349,7 @@
             "offsetY": 112,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1361,7 +1361,7 @@
             "offsetY": 113,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1373,7 +1373,7 @@
             "offsetY": 114,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1385,7 +1385,7 @@
             "offsetY": 115,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1397,7 +1397,7 @@
             "offsetY": 116,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1409,7 +1409,7 @@
             "offsetY": 117,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1421,7 +1421,7 @@
             "offsetY": 118,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1433,7 +1433,7 @@
             "offsetY": 119,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1445,7 +1445,7 @@
             "offsetY": 120,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1457,7 +1457,7 @@
             "offsetY": 121,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1469,7 +1469,7 @@
             "offsetY": 122,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1481,7 +1481,7 @@
             "offsetY": 123,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1493,7 +1493,7 @@
             "offsetY": 124,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1505,7 +1505,7 @@
             "offsetY": 125,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1517,7 +1517,7 @@
             "offsetY": 126,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1529,7 +1529,7 @@
             "offsetY": 127,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1541,7 +1541,7 @@
             "offsetY": 128,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1553,7 +1553,7 @@
             "offsetY": 129,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1565,7 +1565,7 @@
             "offsetY": 130,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1577,7 +1577,7 @@
             "offsetY": 131,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1589,7 +1589,7 @@
             "offsetY": 132,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1601,7 +1601,7 @@
             "offsetY": 133,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1613,7 +1613,7 @@
             "offsetY": 134,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1625,7 +1625,7 @@
             "offsetY": 135,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1637,7 +1637,7 @@
             "offsetY": 136,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1649,7 +1649,7 @@
             "offsetY": 137,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1661,7 +1661,7 @@
             "offsetY": 138,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1673,7 +1673,7 @@
             "offsetY": 139,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1685,7 +1685,7 @@
             "offsetY": 140,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1697,7 +1697,7 @@
             "offsetY": 141,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1709,7 +1709,7 @@
             "offsetY": 142,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1721,7 +1721,7 @@
             "offsetY": 143,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1733,7 +1733,7 @@
             "offsetY": 144,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1745,7 +1745,7 @@
             "offsetY": 145,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1757,7 +1757,7 @@
             "offsetY": 146,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1769,7 +1769,7 @@
             "offsetY": 147,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1781,7 +1781,7 @@
             "offsetY": 148,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1793,7 +1793,7 @@
             "offsetY": 149,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1805,7 +1805,7 @@
             "offsetY": 150,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1817,7 +1817,7 @@
             "offsetY": 151,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1829,7 +1829,7 @@
             "offsetY": 152,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1841,7 +1841,7 @@
             "offsetY": 153,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1853,7 +1853,7 @@
             "offsetY": 154,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1865,7 +1865,7 @@
             "offsetY": 155,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1877,7 +1877,7 @@
             "offsetY": 156,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1889,7 +1889,7 @@
             "offsetY": 157,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1901,7 +1901,7 @@
             "offsetY": 158,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1913,7 +1913,7 @@
             "offsetY": 159,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1925,7 +1925,7 @@
             "offsetY": 160,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1937,7 +1937,7 @@
             "offsetY": 161,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1949,7 +1949,7 @@
             "offsetY": 162,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1961,7 +1961,7 @@
             "offsetY": 163,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1973,7 +1973,7 @@
             "offsetY": 164,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1985,7 +1985,7 @@
             "offsetY": 165,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -1997,7 +1997,7 @@
             "offsetY": 166,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2009,7 +2009,7 @@
             "offsetY": 167,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2021,7 +2021,7 @@
             "offsetY": 168,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2033,7 +2033,7 @@
             "offsetY": 169,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2045,7 +2045,7 @@
             "offsetY": 170,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2057,7 +2057,7 @@
             "offsetY": 171,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2069,7 +2069,7 @@
             "offsetY": 172,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2081,7 +2081,7 @@
             "offsetY": 173,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2093,7 +2093,7 @@
             "offsetY": 174,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2105,7 +2105,7 @@
             "offsetY": 175,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2117,7 +2117,7 @@
             "offsetY": 176,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2129,7 +2129,7 @@
             "offsetY": 177,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2141,7 +2141,7 @@
             "offsetY": 178,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2153,7 +2153,7 @@
             "offsetY": 179,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2165,7 +2165,7 @@
             "offsetY": 180,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2177,7 +2177,7 @@
             "offsetY": 181,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2189,7 +2189,7 @@
             "offsetY": 182,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2201,7 +2201,7 @@
             "offsetY": 183,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2213,7 +2213,7 @@
             "offsetY": 184,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2225,7 +2225,7 @@
             "offsetY": 185,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2237,7 +2237,7 @@
             "offsetY": 186,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2249,7 +2249,7 @@
             "offsetY": 187,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2261,7 +2261,7 @@
             "offsetY": 188,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2273,7 +2273,7 @@
             "offsetY": 189,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2285,7 +2285,7 @@
             "offsetY": 190,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2297,7 +2297,7 @@
             "offsetY": 191,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2309,7 +2309,7 @@
             "offsetY": 192,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2321,7 +2321,7 @@
             "offsetY": 193,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2333,7 +2333,7 @@
             "offsetY": 194,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2345,7 +2345,7 @@
             "offsetY": 195,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2357,7 +2357,7 @@
             "offsetY": 196,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2369,7 +2369,7 @@
             "offsetY": 197,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2381,7 +2381,7 @@
             "offsetY": 198,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2393,7 +2393,7 @@
             "offsetY": 199,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2405,7 +2405,7 @@
             "offsetY": 200,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2417,7 +2417,7 @@
             "offsetY": 201,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2429,7 +2429,7 @@
             "offsetY": 202,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2441,7 +2441,7 @@
             "offsetY": 203,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2453,7 +2453,7 @@
             "offsetY": 204,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2465,7 +2465,7 @@
             "offsetY": 205,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2477,7 +2477,7 @@
             "offsetY": 206,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2489,7 +2489,7 @@
             "offsetY": 207,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2501,7 +2501,7 @@
             "offsetY": 208,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2513,7 +2513,7 @@
             "offsetY": 209,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2525,7 +2525,7 @@
             "offsetY": 210,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2537,7 +2537,7 @@
             "offsetY": 211,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2549,7 +2549,7 @@
             "offsetY": 212,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2561,7 +2561,7 @@
             "offsetY": 213,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2573,7 +2573,7 @@
             "offsetY": 214,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2585,7 +2585,7 @@
             "offsetY": 215,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2597,7 +2597,7 @@
             "offsetY": 216,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2609,7 +2609,7 @@
             "offsetY": 217,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2621,7 +2621,7 @@
             "offsetY": 218,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2633,7 +2633,7 @@
             "offsetY": 219,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2645,7 +2645,7 @@
             "offsetY": 220,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2657,7 +2657,7 @@
             "offsetY": 221,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2669,7 +2669,7 @@
             "offsetY": 222,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2681,7 +2681,7 @@
             "offsetY": 223,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2693,7 +2693,7 @@
             "offsetY": 224,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2705,7 +2705,7 @@
             "offsetY": 225,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2717,7 +2717,7 @@
             "offsetY": 226,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2729,7 +2729,7 @@
             "offsetY": 227,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2741,7 +2741,7 @@
             "offsetY": 228,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2753,7 +2753,7 @@
             "offsetY": 229,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2765,7 +2765,7 @@
             "offsetY": 230,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2777,7 +2777,7 @@
             "offsetY": 231,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2789,7 +2789,7 @@
             "offsetY": 232,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2801,7 +2801,7 @@
             "offsetY": 233,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2813,7 +2813,7 @@
             "offsetY": 234,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2825,7 +2825,7 @@
             "offsetY": 235,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2837,7 +2837,7 @@
             "offsetY": 236,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2849,7 +2849,7 @@
             "offsetY": 237,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2861,7 +2861,7 @@
             "offsetY": 238,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2873,7 +2873,7 @@
             "offsetY": 239,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2885,7 +2885,7 @@
             "offsetY": 240,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2897,7 +2897,7 @@
             "offsetY": 241,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2909,7 +2909,7 @@
             "offsetY": 242,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2921,7 +2921,7 @@
             "offsetY": 243,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2933,7 +2933,7 @@
             "offsetY": 244,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2945,7 +2945,7 @@
             "offsetY": 245,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2957,7 +2957,7 @@
             "offsetY": 246,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2969,7 +2969,7 @@
             "offsetY": 247,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2981,7 +2981,7 @@
             "offsetY": 248,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -2993,7 +2993,7 @@
             "offsetY": 249,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3005,7 +3005,7 @@
             "offsetY": 250,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3017,7 +3017,7 @@
             "offsetY": 251,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3029,7 +3029,7 @@
             "offsetY": 252,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3041,7 +3041,7 @@
             "offsetY": 253,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3053,7 +3053,7 @@
             "offsetY": 254,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3065,7 +3065,7 @@
             "offsetY": 255,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3077,7 +3077,7 @@
             "offsetY": 256,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3089,7 +3089,7 @@
             "offsetY": 257,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3101,7 +3101,7 @@
             "offsetY": 258,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3113,7 +3113,7 @@
             "offsetY": 259,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3125,7 +3125,7 @@
             "offsetY": 260,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3137,7 +3137,7 @@
             "offsetY": 261,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3149,7 +3149,7 @@
             "offsetY": 262,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3161,7 +3161,7 @@
             "offsetY": 263,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3173,7 +3173,7 @@
             "offsetY": 264,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3185,7 +3185,7 @@
             "offsetY": 265,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3197,7 +3197,7 @@
             "offsetY": 266,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3209,7 +3209,7 @@
             "offsetY": 267,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3221,7 +3221,7 @@
             "offsetY": 268,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3233,7 +3233,7 @@
             "offsetY": 269,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3245,7 +3245,7 @@
             "offsetY": 270,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3257,7 +3257,7 @@
             "offsetY": 271,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3269,7 +3269,7 @@
             "offsetY": 272,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3281,7 +3281,7 @@
             "offsetY": 273,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3293,7 +3293,7 @@
             "offsetY": 274,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3305,7 +3305,7 @@
             "offsetY": 275,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3317,7 +3317,7 @@
             "offsetY": 276,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3329,7 +3329,7 @@
             "offsetY": 277,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3341,7 +3341,7 @@
             "offsetY": 278,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3353,7 +3353,7 @@
             "offsetY": 279,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3365,7 +3365,7 @@
             "offsetY": 280,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3377,7 +3377,7 @@
             "offsetY": 281,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3389,7 +3389,7 @@
             "offsetY": 282,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3401,7 +3401,7 @@
             "offsetY": 283,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3413,7 +3413,7 @@
             "offsetY": 284,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3425,7 +3425,7 @@
             "offsetY": 285,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3437,7 +3437,7 @@
             "offsetY": 286,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3449,7 +3449,7 @@
             "offsetY": 287,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3461,7 +3461,7 @@
             "offsetY": 288,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3473,7 +3473,7 @@
             "offsetY": 289,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3485,7 +3485,7 @@
             "offsetY": 290,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3497,7 +3497,7 @@
             "offsetY": 291,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3509,7 +3509,7 @@
             "offsetY": 292,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3521,7 +3521,7 @@
             "offsetY": 293,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3533,7 +3533,7 @@
             "offsetY": 294,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3545,7 +3545,7 @@
             "offsetY": 295,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3557,7 +3557,7 @@
             "offsetY": 296,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3569,7 +3569,7 @@
             "offsetY": 297,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3581,7 +3581,7 @@
             "offsetY": 298,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3593,7 +3593,7 @@
             "offsetY": 299,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3605,7 +3605,7 @@
             "offsetY": 300,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3617,7 +3617,7 @@
             "offsetY": 301,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3629,7 +3629,7 @@
             "offsetY": 302,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3641,7 +3641,7 @@
             "offsetY": 303,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3653,7 +3653,7 @@
             "offsetY": 304,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3665,7 +3665,7 @@
             "offsetY": 305,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3677,7 +3677,7 @@
             "offsetY": 306,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3689,7 +3689,7 @@
             "offsetY": 307,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3701,7 +3701,7 @@
             "offsetY": 308,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3713,7 +3713,7 @@
             "offsetY": 309,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3725,7 +3725,7 @@
             "offsetY": 310,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3737,7 +3737,7 @@
             "offsetY": 311,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3749,7 +3749,7 @@
             "offsetY": 312,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3761,7 +3761,7 @@
             "offsetY": 313,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3773,7 +3773,7 @@
             "offsetY": 314,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3785,7 +3785,7 @@
             "offsetY": 315,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3797,7 +3797,7 @@
             "offsetY": 316,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3809,7 +3809,7 @@
             "offsetY": 317,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3821,7 +3821,7 @@
             "offsetY": 318,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3833,7 +3833,7 @@
             "offsetY": 319,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3845,7 +3845,7 @@
             "offsetY": 320,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3857,7 +3857,7 @@
             "offsetY": 321,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3869,7 +3869,7 @@
             "offsetY": 322,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3881,7 +3881,7 @@
             "offsetY": 323,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3893,7 +3893,7 @@
             "offsetY": 324,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3905,7 +3905,7 @@
             "offsetY": 325,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3917,7 +3917,7 @@
             "offsetY": 326,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3929,7 +3929,7 @@
             "offsetY": 327,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3941,7 +3941,7 @@
             "offsetY": 328,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3953,7 +3953,7 @@
             "offsetY": 329,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3965,7 +3965,7 @@
             "offsetY": 330,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3977,7 +3977,7 @@
             "offsetY": 331,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -3989,7 +3989,7 @@
             "offsetY": 332,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4001,7 +4001,7 @@
             "offsetY": 333,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4013,7 +4013,7 @@
             "offsetY": 334,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4025,7 +4025,7 @@
             "offsetY": 335,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4037,7 +4037,7 @@
             "offsetY": 336,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4049,7 +4049,7 @@
             "offsetY": 337,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4061,7 +4061,7 @@
             "offsetY": 338,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4073,7 +4073,7 @@
             "offsetY": 339,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4085,7 +4085,7 @@
             "offsetY": 340,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4097,7 +4097,7 @@
             "offsetY": 341,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4109,7 +4109,7 @@
             "offsetY": 342,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4121,7 +4121,7 @@
             "offsetY": 343,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4133,7 +4133,7 @@
             "offsetY": 344,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4145,7 +4145,7 @@
             "offsetY": 345,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4157,7 +4157,7 @@
             "offsetY": 346,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4169,7 +4169,7 @@
             "offsetY": 347,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4181,7 +4181,7 @@
             "offsetY": 348,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4193,7 +4193,7 @@
             "offsetY": 349,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4205,7 +4205,7 @@
             "offsetY": 350,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4217,7 +4217,7 @@
             "offsetY": 351,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4229,7 +4229,7 @@
             "offsetY": 352,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4241,7 +4241,7 @@
             "offsetY": 353,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4253,7 +4253,7 @@
             "offsetY": 354,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4265,7 +4265,7 @@
             "offsetY": 355,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4277,7 +4277,7 @@
             "offsetY": 356,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4289,7 +4289,7 @@
             "offsetY": 357,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4301,7 +4301,7 @@
             "offsetY": 358,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4313,7 +4313,7 @@
             "offsetY": 359,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4325,7 +4325,7 @@
             "offsetY": 360,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4337,7 +4337,7 @@
             "offsetY": 361,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4349,7 +4349,7 @@
             "offsetY": 362,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4361,7 +4361,7 @@
             "offsetY": 363,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4373,7 +4373,7 @@
             "offsetY": 364,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4385,7 +4385,7 @@
             "offsetY": 365,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4397,7 +4397,7 @@
             "offsetY": 366,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4409,7 +4409,7 @@
             "offsetY": 367,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4421,7 +4421,7 @@
             "offsetY": 368,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4433,7 +4433,7 @@
             "offsetY": 369,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4445,7 +4445,7 @@
             "offsetY": 370,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4457,7 +4457,7 @@
             "offsetY": 371,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4469,7 +4469,7 @@
             "offsetY": 372,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4481,7 +4481,7 @@
             "offsetY": 373,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4493,7 +4493,7 @@
             "offsetY": 374,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4505,7 +4505,7 @@
             "offsetY": 375,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4517,7 +4517,7 @@
             "offsetY": 376,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4529,7 +4529,7 @@
             "offsetY": 377,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4541,7 +4541,7 @@
             "offsetY": 378,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4553,7 +4553,7 @@
             "offsetY": 379,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4565,7 +4565,7 @@
             "offsetY": 380,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4577,7 +4577,7 @@
             "offsetY": 381,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4589,7 +4589,7 @@
             "offsetY": 382,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4601,7 +4601,7 @@
             "offsetY": 383,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }
@@ -4613,7 +4613,7 @@
             "offsetY": 384,
             "predicate": {
                 "block": {
-                    "tag": "manic:rain_blocking"
+                    "tag": "manic:skylight"
                 }
             }
         }

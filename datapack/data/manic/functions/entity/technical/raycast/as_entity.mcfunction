@@ -4,4 +4,6 @@ execute if entity @s[tag=manic.block.corpsegourd] run function manic:block/corps
 execute if entity @s[tag=manic.block.podium] run function manic:block/podium/interact/as_entity
 execute if entity @s[tag=manic.block.altar] run function manic:block/altar/interact/as_entity
 execute if entity @s[tag=manic.entity.corpsecreep] run function manic:entity/corpsecreep/interact/as_entity
+execute if entity @s[tag=manic.entity.traitor,tag=!manic.entity.traitor.has_trades] run function manic:entity/traitor/interact/as_entity
+execute if entity @s[tag=manic.entity.traitor_trade] run function manic:entity/traitor/trades/interact/as_entity
 execute if entity @s[tag=manic.block.corpsethorn] run function manic:block/corpsethorn/interact/as_entity

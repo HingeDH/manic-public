@@ -1,0 +1,17 @@
+{
+  "parent": "manic:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wandering_trader",
+          "nbt": "{Tags:[\"manic.entity.traitor_trade\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "manic:entity/traitor/trades/interact/as_player"
+  }
+}

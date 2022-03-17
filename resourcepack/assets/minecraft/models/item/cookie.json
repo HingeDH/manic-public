@@ -5,6 +5,7 @@
   },
   "overrides": [
 	{ "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/pumpkin_pop" },
-	{ "predicate": { "custom_model_data": 8360001 }, "model": "manic:item/melon_pop" }
+	{ "predicate": { "custom_model_data": 8360001 }, "model": "manic:item/melon_pop" },
+	{ "predicate": { "custom_model_data": 8360002 }, "model": "manic:item/spectre_gelatin" }
   ]
 }

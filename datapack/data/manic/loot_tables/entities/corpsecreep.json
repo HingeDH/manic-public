@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "manic:items/music_disc_cognition"
+          "name": "manic:items/music_disc_respite"
         }
       ],
       "conditions": [

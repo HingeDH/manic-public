@@ -1,3 +1,0 @@
-execute if score @s kiko.frame matches 32 run execute as @e[distance=..25,type=#manic:kiko_element,tag=kiko.element,tag=manic.keeper.kiko_element] if score @s kiko.id = #kiko_fp kiko.id run function manic:animations/keeper/bite/frame_32
-execute if score @s kiko.frame matches 22..31 run function manic:animations/keeper/bite/bst/18
-execute if score @s kiko.frame matches 33..42 run function manic:animations/keeper/bite/bst/25

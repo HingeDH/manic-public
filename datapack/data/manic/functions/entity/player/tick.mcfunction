@@ -16,3 +16,5 @@ execute if score @s manic.invul_timer matches 1.. run scoreboard players remove 
 execute if score @s manic.effect.haunted matches 1.. run function manic:item/haunted_axe/tick
 
 execute if score @s manic.ritual_delay matches 1.. run scoreboard players remove @s manic.ritual_delay 1
+
+execute if score @s manic.eat_cake matches 1.. run function manic:item/cake/eat

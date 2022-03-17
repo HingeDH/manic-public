@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:8360004,manic:{id:\"corpsegourd_seeds\"}}"
+              "tag": "{Unbreakable:1b,HideFlags:4,CustomModelData:8360004,manic:{id:\"corpsegourd_seeds\"}}"
             },
             {
               "function": "minecraft:set_lore",

@@ -52,9 +52,9 @@
                   "equipment": {
                     "mainhand": {
                       "items": [
-                        "minecraft:carrot_on_a_stick"
+                        "minecraft:structure_block"
                       ],
-                      "nbt": "{manic:{id:\"anirrum_bucket\"}}"
+                      "nbt": "{manic:{id:\"anirrum_ingot\"}}"
                     }
                   }
                 }
@@ -70,7 +70,7 @@
           "items": [
             "minecraft:milk_bucket",
             "minecraft:lava_bucket",
-            "minecraft:carrot_on_a_stick",
+            "minecraft:structure_block",
             "minecraft:honey_bottle"
           ]
         },

@@ -1,9 +1,9 @@
 data remove entity @s Offers.Recipes
 tag @s add manic.entity.insomniac.found
 
-data modify entity @s WanderTarget.X set from entity @p[gamemode=!creative,gamemode=!survival] Pos[0]
-data modify entity @s WanderTarget.Y set from entity @p[gamemode=!creative,gamemode=!survival] Pos[1]
-data modify entity @s WanderTarget.Z set from entity @p[gamemode=!creative,gamemode=!survival] Pos[2]
+data modify entity @s WanderTarget.X set from entity @p[gamemode=!spectator] Pos[0]
+data modify entity @s WanderTarget.Y set from entity @p[gamemode=!spectator] Pos[1]
+data modify entity @s WanderTarget.Z set from entity @p[gamemode=!spectator] Pos[2]
 
 ## Common
 function manic:entity/insomniac/trades/buy/emerald

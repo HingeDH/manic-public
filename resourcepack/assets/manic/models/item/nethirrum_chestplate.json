@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "manic:item/nethirrum_chestplate",
+    "layer1": "manic:item/nethirrum_chestplate"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_chestplate",
+        "layer1": "item/leather_chestplate_overlay"
+    },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/anirrum_chestplate" },
+	{ "predicate": { "custom_model_data": 8360001 }, "model": "manic:item/nethirrum_chestplate" }
+  ]
+}

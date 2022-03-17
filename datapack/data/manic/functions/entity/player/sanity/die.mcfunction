@@ -4,6 +4,7 @@ scoreboard players operation @s manic.sanity -= @s manic.effect.false_sanity
 scoreboard players reset @s manic.effect.false_sanity
 scoreboard players reset @s manic.effect.ichor
 scoreboard players reset @s manic.effect.noxious
+scoreboard players reset @s manic.lost_sanity
 
 execute if data storage manic:storage root.difficulty{level:0} run scoreboard players set @s manic.sanity 9999
 execute if data storage manic:storage root.difficulty{level:1} run scoreboard players set @s manic.sanity 9999

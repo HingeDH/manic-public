@@ -9,7 +9,7 @@ effect give @s nausea 10
 effect give @s regeneration 30 0
 advancement revoke @s only manic:technical/consume_item/wine/chorus_gin
 
-execute if score @s manic.sanity matches ..5555 run scoreboard players add @s manic.sanity 666
+execute if score @s manic.sanity matches ..5555 run scoreboard players add @s manic.sanity 800
 execute if score @s manic.sanity matches 5555.. run scoreboard players remove @s manic.sanity 300
 
 tag @s add manic.temp_chorus_gin

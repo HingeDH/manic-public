@@ -7,7 +7,7 @@
           "items": [
             "minecraft:music_disc_11"
           ],
-          "nbt": "{manic:{id:\"music_disc_cognition\"}}"
+          "nbt": "{manic:{id:\"music_disc_respite\"}}"
         },
         "location": {
           "block": {
@@ -20,6 +20,6 @@
     }
   },
   "rewards": {
-    "function": "manic:item/cognition/click_jukebox"
+    "function": "manic:item/respite/click_jukebox"
   }
 }

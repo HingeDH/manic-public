@@ -14,7 +14,8 @@
   { "predicate": { "custom_model_data": 8360007 }, "model": "manic:item/sanity_talisman" },
   { "predicate": { "custom_model_data": 8360008 }, "model": "manic:item/bound_sanity_talisman" },
   { "predicate": { "custom_model_data": 8360009 }, "model": "manic:item/corpseflute" },
-  { "predicate": { "custom_model_data": 8360010 }, "model": "manic:item/corpsethorn_tuna" }
+  { "predicate": { "custom_model_data": 8360010 }, "model": "manic:item/corpsethorn_tuna" },
+  { "predicate": { "custom_model_data": 8360011 }, "model": "manic:item/anirrum_brazier" }
 
   ]
 }

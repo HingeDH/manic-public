@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{CustomModelData:8360002,manic:{id:\"corpsepitcher_twig\"}}"
+              "tag": "{Unbreakable:1b,HideFlags:4,CustomModelData:8360002,manic:{id:\"corpsepitcher_twig\"}}"
             },
             {
               "function": "minecraft:set_lore",

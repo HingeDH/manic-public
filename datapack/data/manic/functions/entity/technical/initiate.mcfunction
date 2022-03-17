@@ -4,3 +4,4 @@ execute if entity @s[tag=manic.block.corpsegourd.start] run function manic:block
 execute if entity @s[tag=manic.block.corpsethorn.start] run function manic:block/corpsethorn/place/initiate
 execute if entity @s[tag=manic.block.podium.start] run function manic:block/podium/place/initiate
 execute if entity @s[tag=manic.block.altar.start] run function manic:block/altar/place/initiate
+execute if entity @s[tag=manic.block.brazier.start] run function manic:block/brazier/place/initiate

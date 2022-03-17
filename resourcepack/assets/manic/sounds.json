@@ -322,6 +322,37 @@
       "manic:entity/monklin/cringe2"
     ]
   },
+  "entity.traitor.ambient": {
+    "subtitle": "manic.subtitle.traitor.ambient",
+    "sounds": [
+      "manic:entity/traitor/idle_1",
+      "manic:entity/traitor/idle_2",
+      "manic:entity/traitor/idle_3",
+      "manic:entity/traitor/idle_4"
+    ]
+  },
+  "entity.traitor.hurt": {
+    "subtitle": "manic.subtitle.traitor.hurt",
+    "sounds": [
+      "manic:entity/traitor/hurt_1",
+      "manic:entity/traitor/hurt_2",
+      "manic:entity/traitor/hurt_3"
+    ]
+  },
+  "entity.traitor.death": {
+    "subtitle": "manic.subtitle.traitor.death",
+    "sounds": [
+      "manic:entity/traitor/death_1",
+      "manic:entity/traitor/death_2",
+      "manic:entity/traitor/death_3"
+    ]
+  },
+  "entity.traitor.trade": {
+    "subtitle": "manic.subtitle.traitor.trade",
+    "sounds": [
+      "manic:entity/traitor/trade"
+    ]
+  },
   "entity.corpsecreep.hurt": {
     "subtitle": "manic.subtitle.corpsecreep.hurt",
     "sounds": [
@@ -702,9 +733,9 @@
 	  "manic:entity/chitter/vanish_3"
 	]
   },
-  "item.record.cognition": {
+  "item.record.respite": {
 	"sounds": [
-	  "manic:item/cognition"
+	  "manic:item/respite"
 	]
   },
   "block.wormhole.ambience": {

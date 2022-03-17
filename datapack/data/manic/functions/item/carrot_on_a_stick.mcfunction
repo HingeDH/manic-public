@@ -8,6 +8,7 @@ execute if entity @s[predicate=manic:entity/holding/corpsegourd] anchored eyes r
 execute if entity @s[predicate=manic:entity/holding/corpsethorn] anchored eyes run function manic:entity/technical/raycast/raycast_place
 execute if entity @s[predicate=manic:entity/holding/podium] anchored eyes run function manic:entity/technical/raycast/raycast_place
 execute if entity @s[predicate=manic:entity/holding/altar] anchored eyes run function manic:entity/technical/raycast/raycast_place
+execute if entity @s[predicate=manic:entity/holding/brazier] anchored eyes run function manic:entity/technical/raycast/raycast_place
 
 # Talisman
 execute if entity @s[predicate=manic:entity/holding/sanity_talisman_empty] if score @s manic.sanity matches 1111.. run function manic:item/sanity_talisman/fill
