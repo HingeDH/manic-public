@@ -21,7 +21,6 @@ scoreboard objectives add manic.lost_sanity dummy
 scoreboard objectives add manic.hide_sanity dummy
 scoreboard objectives add manic.death deathCount
 scoreboard objectives add manic.damage_taken minecraft.custom:minecraft.damage_taken
-scoreboard objectives add manic.has_slept_today dummy
 scoreboard objectives add manic.despawn_timer dummy
 scoreboard objectives add manic.death_timer dummy
 scoreboard objectives add manic.last_slept dummy
@@ -81,7 +80,7 @@ scoreboard objectives add sanguine.bleed_length dummy
 scoreboard players set #manic.installed manic.dummy 1
 scoreboard players set #manic.version.major manic.dummy 0
 scoreboard players set #manic.version.minor manic.dummy 3
-scoreboard players set #manic.version.bugfix manic.dummy 2
+scoreboard players set #manic.version.bugfix manic.dummy 3
 
 ## LCRNG
 scoreboard players set #8 manic.dummy 8

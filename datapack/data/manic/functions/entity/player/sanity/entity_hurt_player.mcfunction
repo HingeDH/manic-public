@@ -1,4 +1,5 @@
 advancement revoke @s only manic:technical/entity_hurt_player/entity_hurt_player
+execute if score @s manic.damage_taken matches 100.. run scoreboard players set @s manic.damage_taken 100
 execute unless score @s manic.effect.noxious matches 1.. unless score @s manic.death_timer matches 1.. run scoreboard players operation @s manic.sanity -= @s manic.damage_taken
 scoreboard players reset @s manic.damage_taken
 function manic:entity/player/sanity/display/update

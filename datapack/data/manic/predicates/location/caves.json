@@ -4,7 +4,7 @@
     "position": {
       "y": {
         "min": 0,
-        "max": 58
+        "max": 32
       }
     },
     "dimension": "minecraft:overworld"
