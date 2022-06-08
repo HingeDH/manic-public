@@ -1,138 +1,137 @@
 {
-    "condition": "minecraft:alternative",
-    "terms": [
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:bad_omen": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:unluck": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:levitation": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:glowing": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:wither": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:poison": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:weakness": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:hunger": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:blindness": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:nausea": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:mining_fatigue": {
-              "amplifier": 0
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "effects": {
-            "minecraft:slowness": {
-              "amplifier": 0
-            }
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:bad_omen": {
+            "amplifier": 0
           }
         }
       }
-    ]
-  }
-  
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:unluck": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:levitation": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:glowing": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:wither": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:poison": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:weakness": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:hunger": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:blindness": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:nausea": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:mining_fatigue": {
+            "amplifier": 0
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "effects": {
+          "minecraft:slowness": {
+            "amplifier": 0
+          }
+        }
+      }
+    }
+  ]
+}

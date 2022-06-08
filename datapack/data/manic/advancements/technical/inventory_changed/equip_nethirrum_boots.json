@@ -1,31 +1,30 @@
 {
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "player": {
-            "equipment": {
-              "feet": {
-                "items": [
-                  "minecraft:netherite_boots"
-                ],
-                "nbt": "{manic:{id:\"nethirrum_boots\"}}"
-              }
-            }
-          },
-          "items": [
-            {
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "feet": {
               "items": [
                 "minecraft:netherite_boots"
               ],
               "nbt": "{manic:{id:\"nethirrum_boots\"}}"
             }
-          ]
-        }
+          }
+        },
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_boots"
+            ],
+            "nbt": "{manic:{id:\"nethirrum_boots\"}}"
+          }
+        ]
       }
-    },
-    "rewards": {
-      "function": "manic:item/anirrum/armor/equip_nethirrum_boots_player"
     }
+  },
+  "rewards": {
+    "function": "manic:item/anirrum/armor/equip_nethirrum_boots_player"
   }
-  
+}

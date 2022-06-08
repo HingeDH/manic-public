@@ -1,31 +1,30 @@
 {
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "player": {
-            "equipment": {
-              "head": {
-                "items": [
-                  "minecraft:diamond_helmet"
-                ],
-                "nbt": "{manic:{id:\"anirrum_helmet\"}}"
-              }
-            }
-          },
-          "items": [
-            {
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "head": {
               "items": [
                 "minecraft:diamond_helmet"
               ],
               "nbt": "{manic:{id:\"anirrum_helmet\"}}"
             }
-          ]
-        }
+          }
+        },
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_helmet"
+            ],
+            "nbt": "{manic:{id:\"anirrum_helmet\"}}"
+          }
+        ]
       }
-    },
-    "rewards": {
-      "function": "manic:item/anirrum/armor/equip_anirrum_helmet_player"
     }
+  },
+  "rewards": {
+    "function": "manic:item/anirrum/armor/equip_anirrum_helmet_player"
   }
-  
+}

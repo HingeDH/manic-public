@@ -1,37 +1,36 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:netherite_leggings",
-            "functions": [
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{display:{color:3423547},manic:{armor:{sanity_durability:1b},id:\"nethirrum_leggings\"},Unbreakable:1b,HideFlags:68,CustomModelData:8360001,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-90012984,462483,-1696687,-2983720],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-900431794,494354183,-169643687,-298183720],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1984458290,19553089,-1499157148,1039284173],Slot:\"legs\"}]}"
-              },
-              {
-                "function": "minecraft:set_lore",
-                "lore": [
-                  {
-                    "translate": "manic.pack.name",
-                    "color": "#82339b",
-                    "italic": false
-                  }
-                ]
-              },
-              {
-                "function": "minecraft:set_name",
-                "name": {
-                  "translate": "manic.item.nethirrum_leggings",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:3423547},manic:{armor:{sanity_durability:1b},id:\"nethirrum_leggings\"},Unbreakable:1b,HideFlags:68,CustomModelData:8360001,AttributeModifiers:[{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;-90012984,462483,-1696687,-2983720],Slot:\"legs\"},{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:6,Operation:0,UUID:[I;-900431794,494354183,-169643687,-298183720],Slot:\"legs\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1984458290,19553089,-1499157148,1039284173],Slot:\"legs\"}]}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
                   "italic": false
                 }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.nethirrum_leggings",
+                "italic": false
               }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

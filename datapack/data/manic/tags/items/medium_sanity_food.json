@@ -1,9 +1,9 @@
 {
- "values":[
-   "minecraft:golden_apple",
-   "minecraft:beetroot_soup",
-   "minecraft:mushroom_stew",
-   "minecraft:pumpkin_pie",
-   "minecraft:chorus_fruit"
-  ]
+   "values": [
+      "minecraft:golden_apple",
+      "minecraft:beetroot_soup",
+      "minecraft:mushroom_stew",
+      "minecraft:pumpkin_pie",
+      "minecraft:chorus_fruit"
+   ]
 }

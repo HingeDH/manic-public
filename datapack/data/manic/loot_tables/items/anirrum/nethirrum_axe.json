@@ -26,7 +26,7 @@
               "function": "minecraft:set_name",
               "name": {
                 "translate": "manic.item.anirrum_axe",
-				"italic": false
+                "italic": false
               }
             }
           ]

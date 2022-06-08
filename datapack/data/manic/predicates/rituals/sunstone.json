@@ -1,15 +1,14 @@
 {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-      "equipment": {
-        "offhand": {
-          "items": [
-            "minecraft:structure_block"
-          ],
-          "nbt": "{manic:{id:\"sunstone\"}}"
-        }
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "offhand": {
+        "items": [
+          "minecraft:structure_block"
+        ],
+        "nbt": "{manic:{id:\"sunstone\"}}"
       }
     }
   }
-  
+}

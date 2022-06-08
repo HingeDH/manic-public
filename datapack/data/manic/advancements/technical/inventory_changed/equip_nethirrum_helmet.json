@@ -1,31 +1,30 @@
 {
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "player": {
-            "equipment": {
-              "head": {
-                "items": [
-                  "minecraft:netherite_helmet"
-                ],
-                "nbt": "{manic:{id:\"nethirrum_helmet\"}}"
-              }
-            }
-          },
-          "items": [
-            {
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "head": {
               "items": [
                 "minecraft:netherite_helmet"
               ],
               "nbt": "{manic:{id:\"nethirrum_helmet\"}}"
             }
-          ]
-        }
+          }
+        },
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_helmet"
+            ],
+            "nbt": "{manic:{id:\"nethirrum_helmet\"}}"
+          }
+        ]
       }
-    },
-    "rewards": {
-      "function": "manic:item/anirrum/armor/equip_nethirrum_helmet_player"
     }
+  },
+  "rewards": {
+    "function": "manic:item/anirrum/armor/equip_nethirrum_helmet_player"
   }
-  
+}

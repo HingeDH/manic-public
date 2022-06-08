@@ -1,16 +1,16 @@
 [
     {
-    "condition": "minecraft:location_check",
-    "predicate": {
-      "light": {
-        "light": {
-          "min": 0,
-          "max": 7
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "light": {
+                "light": {
+                    "min": 0,
+                    "max": 7
+                }
+            }
         }
-      }
-	 }
     },
-	{
+    {
         "condition": "minecraft:inverted",
         "term": {
             "condition": "minecraft:location_check",

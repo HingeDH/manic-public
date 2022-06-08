@@ -1,39 +1,38 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:item",
-            "name": "minecraft:structure_block",
-            "functions": [
-              {
-                "function": "minecraft:set_nbt",
-                "tag": "{CustomModelData:8360007,manic:{id:\"anima_shackles\",bound:0b}}"
-              },
-              {
-                "function": "minecraft:set_name",
-                "name": {
-                  "translate": "manic.item.anima_shackles",
-                  "color": "white",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:structure_block",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomModelData:8360007,manic:{id:\"anima_shackles\",bound:0b}}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "translate": "manic.item.anima_shackles",
+                "color": "white",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "translate": "manic.pack.name",
+                  "color": "#82339b",
                   "italic": false
                 }
-              },
-              {
-                "function": "minecraft:set_lore",
-                "entity": "this",
-                "lore": [
-                  {
-                    "translate": "manic.pack.name",
-                    "color": "#82339b",
-                    "italic": false
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

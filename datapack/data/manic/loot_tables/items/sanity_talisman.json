@@ -26,8 +26,8 @@
               "function": "minecraft:set_name",
               "name": {
                 "translate": "manic.item.sanity_talisman",
-				"italic": false,
-				"color": "green"
+                "italic": false,
+                "color": "green"
               }
             }
           ]

@@ -15,7 +15,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "manic:manic/mansion",
+  "parent": "manic:manic/all_corpseplants",
   "criteria": {
     "criteria": {
       "trigger": "minecraft:impossible"

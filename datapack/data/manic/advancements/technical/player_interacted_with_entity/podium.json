@@ -1,64 +1,63 @@
 {
-    "parent": "manic:technical/root",
-    "criteria": {
-      "fill": {
-        "trigger": "minecraft:player_interacted_with_entity",
-        "conditions": {
-          "player": [
-            {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:entity_properties",
-                "entity": "this",
-                "predicate": {
-                  "equipment": {
-                    "mainhand": {
-                      "items": [
-                        "minecraft:air"
-                      ]
-                    }
+  "parent": "manic:technical/root",
+  "criteria": {
+    "fill": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:inverted",
+            "term": {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "items": [
+                      "minecraft:air"
+                    ]
                   }
                 }
               }
             }
-          ],
-          "entity": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "minecraft:wandering_trader",
-                "nbt": "{Tags:[\"manic.block.podium\",\"manic.block.podium_empty\"]}"
-              }
+          }
+        ],
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.podium\",\"manic.block.podium_empty\"]}"
             }
-          ]
-        }
-      },
-      "empty": {
-        "trigger": "minecraft:player_interacted_with_entity",
-        "conditions": {
-          "player": [],
-          "entity": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "minecraft:wandering_trader",
-                "nbt": "{Tags:[\"manic.block.podium\",\"manic.block.podium_full\"]}"
-              }
-            }
-          ]
-        }
+          }
+        ]
       }
     },
-    "requirements": [
-      [
-        "fill",
-        "empty"
-      ]
-    ],
-    "rewards": {
-      "function": "manic:block/podium/interact/raycast_start"
+    "empty": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "player": [],
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wandering_trader",
+              "nbt": "{Tags:[\"manic.block.podium\",\"manic.block.podium_full\"]}"
+            }
+          }
+        ]
+      }
     }
+  },
+  "requirements": [
+    [
+      "fill",
+      "empty"
+    ]
+  ],
+  "rewards": {
+    "function": "manic:block/podium/interact/raycast_start"
   }
-  
+}

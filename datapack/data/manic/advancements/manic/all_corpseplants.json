@@ -43,7 +43,7 @@
         ]
       }
     },
-	"corpsepitcher": {
+    "corpsepitcher": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -56,7 +56,7 @@
         ]
       }
     },
-	"corpsethorn": {
+    "corpsethorn": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -69,7 +69,7 @@
         ]
       }
     },
-	"corpseflute": {
+    "corpseflute": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -90,13 +90,13 @@
     [
       "corpsegourd"
     ],
-	[
+    [
       "corpsepitcher"
     ],
-	[
+    [
       "corpsethorn"
     ],
-	[
+    [
       "corpseflute"
     ]
   ]

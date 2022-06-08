@@ -1,18 +1,17 @@
 {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-      "equipment": {
-        "mainhand": {
-          "items": [
-            "minecraft:structure_block"
-          ],
-          "count": {
-            "min": 3
-          },
-          "nbt": "{manic:{id:\"voidstone\"}}"
-        }
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": [
+          "minecraft:structure_block"
+        ],
+        "count": {
+          "min": 3
+        },
+        "nbt": "{manic:{id:\"voidstone\"}}"
       }
     }
   }
-  
+}

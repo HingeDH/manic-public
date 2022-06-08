@@ -1,20 +1,19 @@
 {
-    "parent": "manic:technical/root",
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:consume_item",
-        "conditions": {
-          "item": {
-            "items": [
-              "minecraft:beetroot_soup"
-            ],
-            "nbt": "{manic:{id:\"glow_berry_jam\"}}"
-          }
+  "parent": "manic:technical/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:beetroot_soup"
+          ],
+          "nbt": "{manic:{id:\"glow_berry_jam\"}}"
         }
       }
-    },
-    "rewards": {
-      "function": "manic:item/consume/glow_berry_jam"
     }
+  },
+  "rewards": {
+    "function": "manic:item/consume/glow_berry_jam"
   }
-  
+}

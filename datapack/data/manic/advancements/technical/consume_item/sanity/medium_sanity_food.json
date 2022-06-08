@@ -16,7 +16,7 @@
         }
       }
     },
-	"glow_berry_muffin": {
+    "glow_berry_muffin": {
       "trigger": "minecraft:consume_item",
       "conditions": {
         "item": {

@@ -26,7 +26,7 @@
               "function": "minecraft:set_name",
               "name": {
                 "translate": "manic.item.podium",
-				"italic": false
+                "italic": false
               }
             }
           ]

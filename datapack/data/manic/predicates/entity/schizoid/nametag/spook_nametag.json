@@ -1,20 +1,19 @@
 [
-    {
-      "condition": "minecraft:inverted",
-      "term": {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "nbt": "{CustomName:'{\"translate\":\"manic.entity.spook\"}'}"
-        }
-      }
-    },
-    {
+  {
+    "condition": "minecraft:inverted",
+    "term": {
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "nbt": "{Tags:[\"manic.entity.spook\"]}"
+        "nbt": "{CustomName:'{\"translate\":\"manic.entity.spook\"}'}"
       }
     }
-  ]
-  
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{Tags:[\"manic.entity.spook\"]}"
+    }
+  }
+]

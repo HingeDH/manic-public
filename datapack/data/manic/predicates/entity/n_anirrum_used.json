@@ -1,4 +1,5 @@
-[    {
+[
+  {
     "condition": "minecraft:alternative",
     "terms": [
       {
@@ -25,7 +26,7 @@
       }
     ]
   },
-    {
+  {
     "condition": "minecraft:alternative",
     "terms": [
       {

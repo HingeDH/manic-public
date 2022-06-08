@@ -86,7 +86,7 @@
                 }
               }
             },
-			{
+            {
               "condition": "minecraft:inverted",
               "term": {
                 "condition": "minecraft:entity_properties",
@@ -96,7 +96,7 @@
                 }
               }
             },
-			{
+            {
               "condition": "minecraft:inverted",
               "term": {
                 "condition": "minecraft:entity_properties",

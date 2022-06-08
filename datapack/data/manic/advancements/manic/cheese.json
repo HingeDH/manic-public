@@ -39,7 +39,7 @@
         }
       }
     },
-	"bleeding": {
+    "bleeding": {
       "trigger": "minecraft:consume_item",
       "conditions": {
         "item": {
@@ -50,7 +50,7 @@
         }
       }
     },
-	"twisted": {
+    "twisted": {
       "trigger": "minecraft:consume_item",
       "conditions": {
         "item": {
@@ -69,10 +69,10 @@
     [
       "strong"
     ],
-	[
+    [
       "bleeding"
     ],
-	[
+    [
       "twisted"
     ]
   ]

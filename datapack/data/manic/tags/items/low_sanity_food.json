@@ -1,16 +1,16 @@
 {
- "values":[
-   "minecraft:apple",
-   "minecraft:carrot",
-   "minecraft:golden_carrot",
-   "minecraft:sweet_berries",
-   "minecraft:glow_berries",
-   "minecraft:beetroot",
-   "minecraft:melon_slice",
-   "minecraft:potato",
-   "minecraft:baked_potato",
-   "minecraft:dried_kelp",
-   "minecraft:bread",
-   "minecraft:tropical_fish"
-  ]
+   "values": [
+      "minecraft:apple",
+      "minecraft:carrot",
+      "minecraft:golden_carrot",
+      "minecraft:sweet_berries",
+      "minecraft:glow_berries",
+      "minecraft:beetroot",
+      "minecraft:melon_slice",
+      "minecraft:potato",
+      "minecraft:baked_potato",
+      "minecraft:dried_kelp",
+      "minecraft:bread",
+      "minecraft:tropical_fish"
+   ]
 }

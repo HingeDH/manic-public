@@ -12,7 +12,7 @@
         }
       }
     },
-	"necroplasm": {
+    "necroplasm": {
       "trigger": "minecraft:player_interacted_with_entity",
       "conditions": {
         "item": {
@@ -23,7 +23,7 @@
         }
       }
     },
-	"lysosome": {
+    "lysosome": {
       "trigger": "minecraft:player_interacted_with_entity",
       "conditions": {
         "item": {
@@ -34,7 +34,7 @@
         }
       }
     },
-	"vacuuole": {
+    "vacuuole": {
       "trigger": "minecraft:player_interacted_with_entity",
       "conditions": {
         "item": {
@@ -45,7 +45,7 @@
         }
       }
     },
-	"reticulum": {
+    "reticulum": {
       "trigger": "minecraft:player_interacted_with_entity",
       "conditions": {
         "item": {
@@ -56,7 +56,7 @@
         }
       }
     },
-	"membrane": {
+    "membrane": {
       "trigger": "minecraft:player_interacted_with_entity",
       "conditions": {
         "item": {

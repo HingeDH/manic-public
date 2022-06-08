@@ -1,23 +1,22 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:loot_table",
-            "name": "manic:items/brazier"
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/brazier"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{Tags:[\"manic.block.brazier\"]}"
           }
-        ],
-        "conditions": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "nbt": "{Tags:[\"manic.block.brazier\"]}"
-            }
-          }
-        ]
-      }
-    ]
-  }
-  
+        }
+      ]
+    }
+  ]
+}

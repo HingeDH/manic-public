@@ -1,23 +1,22 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:loot_table",
-            "name": "manic:items/corpsepitcher_twig"
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/corpsepitcher_twig"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
           }
-        ],
-        "conditions": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "nbt": "{Tags:[\"manic.block.corpsepitcher\"]}"
-            }
-          }
-        ]
-      }
-    ]
-  }
-  
+        }
+      ]
+    }
+  ]
+}

@@ -1,58 +1,57 @@
 {
-    "condition": "minecraft:alternative",
-    "terms": [
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "equipment": {
-            "offhand": {
-              "nbt": "{manic:{id:\"anima_shackles\",bound:0b}}"
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "equipment": {
-            "offhand": {
-              "items": [
-                "minecraft:ender_pearl"
-              ]
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "equipment": {
-            "offhand": {
-              "items": [
-                "minecraft:structure_block"
-              ],
-              "nbt": "{manic:{id:\"moonstone\"}}"
-            }
-          }
-        }
-      },
-      {
-        "condition": "minecraft:entity_properties",
-        "entity": "this",
-        "predicate": {
-          "equipment": {
-            "offhand": {
-              "items": [
-                "minecraft:structure_block"
-              ],
-              "nbt": "{manic:{id:\"sunstone\"}}"
-            }
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "nbt": "{manic:{id:\"anima_shackles\",bound:0b}}"
           }
         }
       }
-    ]
-  }
-  
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "items": [
+              "minecraft:ender_pearl"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "items": [
+              "minecraft:structure_block"
+            ],
+            "nbt": "{manic:{id:\"moonstone\"}}"
+          }
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "offhand": {
+            "items": [
+              "minecraft:structure_block"
+            ],
+            "nbt": "{manic:{id:\"sunstone\"}}"
+          }
+        }
+      }
+    }
+  ]
+}

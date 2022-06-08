@@ -1,16 +1,16 @@
 [
-    {
-      "condition": "minecraft:location_check",
-      "predicate": {
-        "dimension": "minecraft:overworld"
-      }
-    },
-    {
-      "condition": "minecraft:time_check",
-      "value": {
-        "min": 13001,
-        "max": 23999
-      },
-      "period": 24000
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "dimension": "minecraft:overworld"
     }
+  },
+  {
+    "condition": "minecraft:time_check",
+    "value": {
+      "min": 13001,
+      "max": 23999
+    },
+    "period": 24000
+  }
 ]

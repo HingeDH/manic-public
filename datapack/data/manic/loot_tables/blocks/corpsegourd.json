@@ -1,23 +1,22 @@
 {
-    "pools": [
-      {
-        "rolls": 1,
-        "entries": [
-          {
-            "type": "minecraft:loot_table",
-            "name": "manic:items/corpsegourd_seeds"
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "manic:items/corpsegourd_seeds"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "nbt": "{Tags:[\"manic.block.corpsegourd\"]}"
           }
-        ],
-        "conditions": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "nbt": "{Tags:[\"manic.block.corpsegourd\"]}"
-            }
-          }
-        ]
-      }
-    ]
-  }
-  
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@
         "condition": "minecraft:reference",
         "name": "manic:entity/holding/corpsegourd"
       },
-	  {
+      {
         "condition": "minecraft:reference",
         "name": "manic:entity/holding/corpsethorn"
       }
