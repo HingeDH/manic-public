@@ -80,7 +80,7 @@ scoreboard objectives add sanguine.bleed_length dummy
 scoreboard players set #manic.installed manic.dummy 1
 scoreboard players set #manic.version.major manic.dummy 0
 scoreboard players set #manic.version.minor manic.dummy 3
-scoreboard players set #manic.version.bugfix manic.dummy 3
+scoreboard players set #manic.version.bugfix manic.dummy 4
 
 ## LCRNG
 scoreboard players set #8 manic.dummy 8
