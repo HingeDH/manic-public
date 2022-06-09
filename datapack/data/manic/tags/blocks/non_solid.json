@@ -48,6 +48,7 @@
 		"minecraft:beacon",
 		"minecraft:brewing_stand",
 		"minecraft:grindstone",
-		"minecraft:stonecutter"
+		"minecraft:stonecutter",
+		"minecraft:mangrove_propagule"
 	]
 }

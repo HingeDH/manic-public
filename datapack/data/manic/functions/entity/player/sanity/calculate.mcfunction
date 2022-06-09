@@ -13,7 +13,7 @@ execute if predicate manic:location/end run scoreboard players remove @s manic.d
 execute if predicate manic:location/overworld unless predicate manic:location/deepslate_caves if score @s manic.last_slept matches 8000.. run scoreboard players remove @s manic.dummy 1
 
 ## Compat
-execute if score #sanguine.blood_moon sanguine.dummy matches 1 run scoreboard players remove @s manic.dummy 3
+execute if score #sanguine.blood_moon.phase sanguine.dummy matches 2 run scoreboard players remove @s manic.dummy 3
 
 ## Difficulty Modifications
 execute if score #manic.difficulty manic.dummy matches 0 if score @s manic.dummy matches ..-2 run scoreboard players set @s manic.dummy -2
