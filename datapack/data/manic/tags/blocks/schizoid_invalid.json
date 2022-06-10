@@ -2,10 +2,15 @@
   "values": [
     "#minecraft:stairs",
     "#minecraft:slabs",
-    "#minecraft:carpets",
+    "#minecraft:wool_carpets",
     "#minecraft:impermeable",
+    "minecraft:moss_carpet",
     "minecraft:lava",
     "minecraft:magma_block",
-    "minecraft:powder_snow"
+    "minecraft:powder_snow",
+    "campfire",
+    "wither_rose",
+    "cobweb",
+    "sweet_berry_bush"
   ]
 }
